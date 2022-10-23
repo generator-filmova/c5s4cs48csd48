@@ -1,0 +1,112 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="♫ ♫ MUZIKA ♫ ♫" tvg-logo="http://epg.netsolutionpro.com/logo/balkan_x.jpeg" group-title="♫_MUZIKA",♫ ♫ MUZIKA ♫ ♫
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/432.m3u8
+#EXTINF:-1 tvg-id="337" tvg-name="SEVDAH TV" tvg-logo="https://static.klix.ba/media/images/vijesti/b_160210016.jpg?v=1" group-title="♫_MUZIKA",SEVDAH TV
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/433.m3u8
+#EXTINF:-1 tvg-id="326" tvg-name="HAYAT FOLK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Hayatflk.png/revision/latest/scale-to-width-down/280?cb=20200525191429" group-title="♫_MUZIKA",HAYAT FOLK
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/434.m3u8
+#EXTINF:-1 tvg-id="3470" tvg-name="SEHARA TV" tvg-logo="https://i.ytimg.com/vi/SlyMBgPsuvo/hqdefault.jpg" group-title="♫_MUZIKA",SEHARA TV
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/435.m3u8
+#EXTINF:-1 tvg-id="334" tvg-name="DM SAT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/dm-sat-logo.png" group-title="♫_MUZIKA",DM SAT
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IDJ TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/IDJTV_logo.png/revision/latest/scale-to-width-down/250?cb=20210205160539" group-title="♫_MUZIKA",IDJ TV
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/437.m3u8
+#EXTINF:-1 tvg-id="329" tvg-name="BN MUSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Goldshinedam.png/revision/latest/scale-to-width-down/145?cb=20200509194105" group-title="♫_MUZIKA",BN MUSIC
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/439.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UZIVOTEKA" tvg-logo="https://storage.googleapis.com/ares-profile-pictures/hd/uzivoteka-99e91d9f7e6e74ed50c2ffc9f9d98500_hd.jpg" group-title="♫_MUZIKA",UZIVOTEKA
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/48810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KAFANSKO VECE" tvg-logo="https://cdn-0.tvprofil.com/img/covers/img480228-tv12418159.jpg" group-title="♫_MUZIKA",KAFANSKO VECE
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/48811.m3u8
+#EXTINF:-1 tvg-id="332" tvg-name="OTV VALENTINO" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ3Eb1SsI_R0JRvKD_IRgMAdIF5SCev58e7v2F3=s900-c-k-c0x00ffffff-no-rj" group-title="♫_MUZIKA",OTV VALENTINO
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OTV ETNO" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ3Eb1SsI_R0JRvKD_IRgMAdIF5SCev58e7v2F3=s900-c-k-c0x00ffffff-no-rj" group-title="♫_MUZIKA",OTV ETNO
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/441.m3u8
+#EXTINF:-1 tvg-id="338" tvg-name="IZVORNA TV" tvg-logo="https://telemach.ba/wp-content/uploads/2020/08/izvorna_tv.png" group-title="♫_MUZIKA",IZVORNA TV
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BMC" tvg-logo="https://bmc-network.com/wp-content/uploads/2020/08/Bmc-logo.png" group-title="♫_MUZIKA",BMC
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/52.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BMC ETNO" tvg-logo="https://bmc-network.com/wp-content/uploads/2020/08/Bmc-logo.png" group-title="♫_MUZIKA",BMC ETNO
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/49359.m3u8
+#EXTINF:-1 tvg-id="330" tvg-name="GRAND TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/Grand_TV_logo.png" group-title="♫_MUZIKA",GRAND TV
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/444.m3u8
+#EXTINF:-1 tvg-id="331" tvg-name="GRAND 2 TV" tvg-logo="https://telemach.si/wp-content/uploads/2020/09/grand_2_tv.jpg" group-title="♫_MUZIKA",GRAND 2 TV
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOP TV FHD" tvg-logo="http://epg.netsolutionpro.com/logo/balkan_x.jpeg" group-title="♫_MUZIKA",TOP TV FHD
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CityPLAY TEST" tvg-logo="https://media.pink.rs/images/07cf7edf1-f3fc-d6f4-ff5a-5d6870f18207/0,0,716,403/1024" group-title="♫_MUZIKA",CityPLAY TEST
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOXIC TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Toxic.png/revision/latest/scale-to-width-down/250?cb=20210319054928" group-title="♫_MUZIKA",TOXIC TV
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JUGOTON TV" tvg-logo="http://epg.netsolutionpro.com/logo-tv/216.hr.png" group-title="♫_MUZIKA",JUGOTON TV
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NARODNI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Narodni_Logo_2.png/800px-Narodni_Logo_2.png" group-title="♫_MUZIKA",NARODNI TV
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/49343.m3u8
+#EXTINF:-1 tvg-id="316" tvg-name="CMC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/CMC_TV.svg/revision/latest/scale-to-width-down/250?cb=20171204105414" group-title="♫_MUZIKA",CMC
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/453.m3u8
+#EXTINF:-1 tvg-id="317" tvg-name="DMC TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/DMC_televizija_logo.png" group-title="♫_MUZIKA",DMC TV
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/454.m3u8
+#EXTINF:-1 tvg-id="328" tvg-name="NARODNA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Narodna_Televizija.jpg/revision/latest/scale-to-width-down/165?cb=20111028103154" group-title="♫_MUZIKA",NARODNA TV
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/455.m3u8
+#EXTINF:-1 tvg-id="327" tvg-name="HAYAT MUSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Hayatmus.png/revision/latest/scale-to-width-down/280?cb=20200527192930" group-title="♫_MUZIKA",HAYAT MUSIC
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOBRA MUZICKA TEST" tvg-logo="https://static.wixstatic.com/media/0e5f34_488599c5e8214529b3a8363b4b9484c5~mv2_d_2000_2000_s_2.png/v1/fill/w_2500,h_2500,al_c/0e5f34_488599c5e8214529b3a8363b4b9484c5~mv2_d_2000_2000_s_2.png" group-title="♫_MUZIKA",DOBRA MUZICKA TEST
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/18261.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOBRA  SVADBA TEST" tvg-logo="https://static.wixstatic.com/media/0e5f34_488599c5e8214529b3a8363b4b9484c5~mv2_d_2000_2000_s_2.png/v1/fill/w_2500,h_2500,al_c/0e5f34_488599c5e8214529b3a8363b4b9484c5~mv2_d_2000_2000_s_2.png" group-title="♫_MUZIKA",DOBRA  SVADBA TEST
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/18262.m3u8
+#EXTINF:-1 tvg-id="336" tvg-name="BALKANIKA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Logo_Balkanika_kvadrat.png/revision/latest/scale-to-width-down/200?cb=20200616084720" group-title="♫_MUZIKA",BALKANIKA
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/458.m3u8
+#EXTINF:-1 tvg-id="318" tvg-name="YU PLANET" tvg-logo="https://i.ytimg.com/vi/I5oEl-YiYqE/maxresdefault.jpg" group-title="♫_MUZIKA",YU PLANET
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IMPERIA TV" tvg-logo="https://emdc.yt/img/social/1572952665.jpg" group-title="♫_MUZIKA",IMPERIA TV
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/460.m3u8
+#EXTINF:-1 tvg-id="319" tvg-name="PINK FOLK 1" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkFolk1_logo.png" group-title="♫_MUZIKA",PINK FOLK 1
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/461.m3u8
+#EXTINF:-1 tvg-id="320" tvg-name="PINK FOLK 2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pinkFolk2_logo.png" group-title="♫_MUZIKA",PINK FOLK 2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/462.m3u8
+#EXTINF:-1 tvg-id="325" tvg-name="PINK HITS 1" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkHits_logo.png" group-title="♫_MUZIKA",PINK HITS 1
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINK HITS 2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkHits2_logo.png" group-title="♫_MUZIKA",PINK HITS 2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/49360.m3u8
+#EXTINF:-1 tvg-id="324" tvg-name="PINK KONCERT" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkKoncert_logo.png" group-title="♫_MUZIKA",PINK KONCERT
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/464.m3u8
+#EXTINF:-1 tvg-id="321" tvg-name="PINK MUSIC 1" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkMusic_logo.png" group-title="♫_MUZIKA",PINK MUSIC 1
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/465.m3u8
+#EXTINF:-1 tvg-id="322" tvg-name="PINK MUSIC 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuN96kIQpGEk7zaIzmOCIEN6xo8UcKO-00bVs9dRHeCQmISbkZrmOJ-DcHs2qX6Aa7aiA&usqp=CAU" group-title="♫_MUZIKA",PINK MUSIC 2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROMA TV" tvg-logo="http://epg.netsolutionpro.com/logo/balkan_x.jpeg" group-title="♫_MUZIKA",ROMA TV
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/468.m3u8
+#EXTINF:-1 tvg-id="323" tvg-name="PINK N ROLL" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkNRoll_logo.png" group-title="♫_MUZIKA",PINK N ROLL
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/470.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN MUSIC" tvg-logo="http://balkanmusic.tv/wp-content/uploads/2020/02/Balkan-Music-logoOK.png" group-title="♫_MUZIKA",BALKAN MUSIC
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/48819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KAROLINA TV" tvg-logo="https://karolina.rs/wp-content/uploads/sites/2/2022/05/kr.png" group-title="♫_MUZIKA",KAROLINA TV
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/48820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TDI TV" tvg-logo="https://tdiradio.com/wp-content/uploads/2022/05/TDI-crna-Logo-png-1-300x167.png" group-title="♫_MUZIKA",TDI TV
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/48821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DELUXE MUSIC" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="♫_MUZIKA",DELUXE MUSIC
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/48823.m3u8
+#EXTINF:-1 tvg-id="315" tvg-name="VH1 CLASSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/VH1_Classic.svg/revision/latest/scale-to-width-down/250?cb=20200808180315" group-title="♫_MUZIKA",VH1 CLASSIC
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/471.m3u8
+#EXTINF:-1 tvg-id="314" tvg-name="VH1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/VH1_2013.svg/revision/latest/scale-to-width-down/250?cb=20180509102035" group-title="♫_MUZIKA",VH1
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/472.m3u8
+#EXTINF:-1 tvg-id="307" tvg-name="MTV ADRIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/MTV_%282010%29.svg/revision/latest/scale-to-width-down/200?cb=20210728061036" group-title="♫_MUZIKA",MTV ADRIA
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/473.m3u8
+#EXTINF:-1 tvg-id="308" tvg-name="MTV BASE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/MTV_Base_FR_2013.svg/revision/latest/scale-to-width-down/200?cb=20191212233843" group-title="♫_MUZIKA",MTV BASE
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/474.m3u8
+#EXTINF:-1 tvg-id="310" tvg-name="MTV CLASSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/MTV_Classic.svg/revision/latest/scale-to-width-down/200?cb=20170319123355" group-title="♫_MUZIKA",MTV CLASSIC
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/475.m3u8
+#EXTINF:-1 tvg-id="309" tvg-name="MTV DANCE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/MTV_Dance_Europe.svg/revision/latest/scale-to-width-down/200?cb=20191208003622" group-title="♫_MUZIKA",MTV DANCE
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/476.m3u8
+#EXTINF:-1 tvg-id="312" tvg-name="MTV HITS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/MTV_Hits_UK_2013.svg/revision/latest/scale-to-width-down/200?cb=20191212181422" group-title="♫_MUZIKA",MTV HITS
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/477.m3u8
+#EXTINF:-1 tvg-id="313" tvg-name="MTV MUSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/MTV_Music_Europe.svg/revision/latest/scale-to-width-down/200?cb=20191208003951" group-title="♫_MUZIKA",MTV MUSIC
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/478.m3u8
+#EXTINF:-1 tvg-id="311" tvg-name="MTV ROCKS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/MTV_Rocks_Europe.svg/revision/latest/scale-to-width-down/200?cb=20191208004630" group-title="♫_MUZIKA",MTV ROCKS
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO" tvg-logo="https://www.mezzo.tv/6023fbd0/static/img/generic/mezzo.jpg" group-title="♫_MUZIKA",MEZZO
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KLAPE I TAMBURE(test)" tvg-logo="https://cmc.com.hr/wp-content/uploads/2017/12/klape-i-tambure-tv-streaming.jpg" group-title="♫_MUZIKA",KLAPE I TAMBURE(test)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/47280.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="B1 TV" tvg-logo="https://b1tv.ba/wp-content/uploads/2022/03/Logo-finish-veliki.png" group-title="♫_MUZIKA",B1 TV
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/40.m3u8

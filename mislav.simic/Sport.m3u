@@ -1,0 +1,452 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="::::: SPORT :::::" tvg-logo="https://previews.123rf.com/images/duug/duug1206/duug120600003/13966994-sport-logo.jpg" group-title="SPORT",::::: SPORT :::::
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/49243.m3u8
+#EXTINF:-1 tvg-id="1815" tvg-name="MOJA TV PREMIER LIGA (BIH)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOUjGegucI5wobaz7Rk2nW3lKdY_QGOmcymQ&usqp=CAU" group-title="SPORT",MOJA TV PREMIER LIGA (BIH)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/534.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="411" tvg-name="ARENA SPORT 1 (BiH)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="SPORT",ARENA SPORT 1 (BiH)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/535.m3u8
+#EXTINF:-1 tvg-id="4216" tvg-name="ARENA SPORT 1 (SR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="SPORT",ARENA SPORT 1 (SR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/536.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="4216" tvg-name="ARENA SPORT 1 (SR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="SPORT",ARENA SPORT 1 (SR) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/537.m3u8
+#EXTINF:-1 tvg-id="4217" tvg-name="ARENA SPORT 2 (SR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_RS_logo.png" group-title="SPORT",ARENA SPORT 2 (SR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/538.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="4217" tvg-name="ARENA SPORT 2 (SR) L2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_RS_logo.png" group-title="SPORT",ARENA SPORT 2 (SR) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/539.m3u8
+#EXTINF:-1 tvg-id="4218" tvg-name="ARENA SPORT 3 (SR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_HR_logo.png" group-title="SPORT",ARENA SPORT 3 (SR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/540.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="4218" tvg-name="ARENA SPORT 3 (SR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_HR_logo.png" group-title="SPORT",ARENA SPORT 3 (SR) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/541.m3u8
+#EXTINF:-1 tvg-id="4219" tvg-name="ARENA SPORT 4 (SR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_4_HR_logo.png" group-title="SPORT",ARENA SPORT 4 (SR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/542.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="4219" tvg-name="ARENA SPORT 4 (SR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_4_HR_logo.png" group-title="SPORT",ARENA SPORT 4 (SR) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/543.m3u8
+#EXTINF:-1 tvg-id="4220" tvg-name="ARENA SPORT 5 (SR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_5_HR_logo.png" group-title="SPORT",ARENA SPORT 5 (SR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/544.m3u8
+#EXTINF:-1 tvg-id="ARENA SPORT 5 (Serbia)" tvg-name="ARENA SPORT 5 (SR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_5_HR_logo.png" group-title="SPORT",ARENA SPORT 5 (SR) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/545.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 6 HD (SN)" tvg-name="ARENA SPORT 6 (SR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_6_HR_logo.png" group-title="SPORT",ARENA SPORT 6 (SR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/17062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 PREMIUM (SR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORT",ARENA SPORT 1 PREMIUM (SR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/18328.m3u8
+#EXTINF:-1 timeshift="2" tvg-id="ARENA PREMIUM 1 (Serbia)" tvg-name="ARENA SPORT 1 PREMIUM (SR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORT",ARENA SPORT 1 PREMIUM (SR) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/23314.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 PREMIUM (SR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORT",ARENA SPORT 2 PREMIUM (SR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/18329.m3u8
+#EXTINF:-1 timeshift="2" tvg-id="ARENA PREMIUM 2 (Serbia)" tvg-name="ARENA SPORT 2 PREMIUM (SR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORT",ARENA SPORT 2 PREMIUM (SR) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/23315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 PREMIUM (SR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORT",ARENA SPORT 3 PREMIUM (SR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/18330.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="ARENA PREMIUM 3 (Serbia)" tvg-name="ARENA SPORT 3 PREMIUM (SR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORT",ARENA SPORT 3 PREMIUM (SR) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/23316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX SPORT 1 (HR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Max_Sport_1_HD.svg/revision/latest/scale-to-width-down/250?cb=20210516104427" group-title="SPORT",MAX SPORT 1 (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/47399.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="" tvg-name="MAX SPORT 1 (HR) TEST L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Max_Sport_1_HD.svg/revision/latest/scale-to-width-down/250?cb=20210516104427" group-title="SPORT",MAX SPORT 1 (HR) TEST L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/47635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX SPORT 2 (HR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Max_Sport_2_HD.svg/revision/latest/scale-to-width-down/250?cb=20210516104434" group-title="SPORT",MAX SPORT 2 (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/47400.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="" tvg-name="MAX SPORT 2 (HR)  TEST L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Max_Sport_2_HD.svg/revision/latest/scale-to-width-down/250?cb=20210516104434" group-title="SPORT",MAX SPORT 2 (HR)  TEST L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/47634.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="Arenasport 1 HD" tvg-name="ARENA SPORT 1 (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="SPORT",ARENA SPORT 1 (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/546.m3u8
+#EXTINF:-1 tvg-id="Arenasport 1 HD" tvg-name="ARENA SPORT 1 (HR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="SPORT",ARENA SPORT 1 (HR) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/20677.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="Arenasport 2 HD" tvg-name="ARENA SPORT 2 (HR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_RS_logo.png" group-title="SPORT",ARENA SPORT 2 (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/547.m3u8
+#EXTINF:-1 tvg-id="Arenasport 2 HD" tvg-name="ARENA SPORT 2 (HR) L2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_RS_logo.png" group-title="SPORT",ARENA SPORT 2 (HR) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/20678.m3u8
+#EXTINF:-1 timeshift="2" tvg-id="Arenasport 3 HD" tvg-name="ARENA SPORT 3 (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_HR_logo.png" group-title="SPORT",ARENA SPORT 3 (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/548.m3u8
+#EXTINF:-1 tvg-id="Arenasport 3 HD" tvg-name="ARENA SPORT 3 (HR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_HR_logo.png" group-title="SPORT",ARENA SPORT 3 (HR) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/20679.m3u8
+#EXTINF:-1 timeshift="2" tvg-id="Arenasport 4 HD" tvg-name="ARENA SPORT 4 (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_4_HR_logo.png" group-title="SPORT",ARENA SPORT 4 (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/549.m3u8
+#EXTINF:-1 tvg-id="Arenasport 4 HD" tvg-name="ARENA SPORT 4 (HR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_4_HR_logo.png" group-title="SPORT",ARENA SPORT 4 (HR) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/20680.m3u8
+#EXTINF:-1 timeshift="2" tvg-id="Arenasport 5 HD" tvg-name="ARENA SPORT 5 (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_5_HR_logo.png" group-title="SPORT",ARENA SPORT 5 (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/550.m3u8
+#EXTINF:-1 tvg-id="Arenasport 6 HD" tvg-name="ARENA SPORT 6 (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_6_HR_logo.png" group-title="SPORT",ARENA SPORT 6 (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/551.m3u8
+#EXTINF:-1 tvg-id="Arenasport 7 HD" tvg-name="ARENA SPORT 7 (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="SPORT",ARENA SPORT 7 (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/552.m3u8
+#EXTINF:-1 tvg-id="Arenasport 8 HD" tvg-name="ARENA SPORT 8 (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_8_HR_logo.png" group-title="SPORT",ARENA SPORT 8 (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/553.m3u8
+#EXTINF:-1 tvg-id="Arenasport 9 HD" tvg-name="ARENA SPORT 9 (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_9_HR_logo.png" group-title="SPORT",ARENA SPORT 9 (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/554.m3u8
+#EXTINF:-1 tvg-id="Arenasport 10 HD" tvg-name="ARENA SPORT 10 (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_10_HR_logo.png" group-title="SPORT",ARENA SPORT 10 (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/555.m3u8
+#EXTINF:-1 tvg-id="Arena Fight HD" tvg-name="ARENA FIGHT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Fight_RS_logo.png" group-title="SPORT",ARENA FIGHT
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/21150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB HD (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_hd.png" group-title="SPORT",SPORT KLUB HD (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/47356.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="420" tvg-name="SPORT KLUB 1 (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_1.png" group-title="SPORT",SPORT KLUB 1 (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 1 (HR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_1.png" group-title="SPORT",SPORT KLUB 1 (HR) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/49329.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="421" tvg-name="SPORT KLUB 2 (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_2.png" group-title="SPORT",SPORT KLUB 2 (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 2 (HR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_2.png" group-title="SPORT",SPORT KLUB 2 (HR) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/49330.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="422" tvg-name="SPORT KLUB 3 (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_3.png" group-title="SPORT",SPORT KLUB 3 (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 3 (HR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_3.png" group-title="SPORT",SPORT KLUB 3 (HR) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/49331.m3u8
+#EXTINF:-1 tvg-id="Sport Klub 4" tvg-name="SPORT KLUB 4 (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_4.png" group-title="SPORT",SPORT KLUB 4 (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/562.m3u8
+#EXTINF:-1 tvg-id="Sport Klub 5" tvg-name="SPORT KLUB 5 (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_5.png" group-title="SPORT",SPORT KLUB 5 (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/563.m3u8
+#EXTINF:-1 tvg-id="Sport Klub 6" tvg-name="SPORT KLUB 6 (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_6.png" group-title="SPORT",SPORT KLUB 6 (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/564.m3u8
+#EXTINF:-1 tvg-id="Sport Klub 7" tvg-name="SPORT KLUB 7 (HR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_7.png" group-title="SPORT",SPORT KLUB 7 (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/565.m3u8
+#EXTINF:-1 tvg-id="Sport Klub 8" tvg-name="SPORT KLUB 8 (HR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_8.png" group-title="SPORT",SPORT KLUB 8 (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/21147.m3u8
+#EXTINF:-1 tvg-id="Sport Klub 9" tvg-name="SPORT KLUB 9 (HR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_9.png" group-title="SPORT",SPORT KLUB 9 (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/21148.m3u8
+#EXTINF:-1 tvg-id="Sport Klub 10" tvg-name="SPORT KLUB 10 (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_10.png" group-title="SPORT",SPORT KLUB 10 (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/21149.m3u8
+#EXTINF:-1 timeshift="2" tvg-id="412" tvg-name="SPORT KLUB HD (SR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_hd.png" group-title="SPORT",SPORT KLUB HD (SR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/566.m3u8
+#EXTINF:-1 tvg-id="412" tvg-name="SPORT KLUB HD (SR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_hd.png" group-title="SPORT",SPORT KLUB HD (SR) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/583.m3u8
+#EXTINF:-1 tvg-id="414" tvg-name="SPORT KLUB 1 (SR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_1.png" group-title="SPORT",SPORT KLUB 1 (SR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/567.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="414" tvg-name="SPORT KLUB 1 (SR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_1.png" group-title="SPORT",SPORT KLUB 1 (SR) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/568.m3u8
+#EXTINF:-1 tvg-id="415" tvg-name="SPORT KLUB 2 (SR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_2.png" group-title="SPORT",SPORT KLUB 2 (SR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/569.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="415" tvg-name="SPORT KLUB 2 (SR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_2.png" group-title="SPORT",SPORT KLUB 2 (SR) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/570.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="SPORT KLUB 3 (SR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_3.png" group-title="SPORT",SPORT KLUB 3 (SR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/571.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="416" tvg-name="SPORT KLUB 3 (SR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_3.png" group-title="SPORT",SPORT KLUB 3 (SR) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/572.m3u8
+#EXTINF:-1 tvg-id="417" tvg-name="SPORT KLUB 4 (SR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_4.png" group-title="SPORT",SPORT KLUB 4 (SR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/573.m3u8
+#EXTINF:-1 tvg-id="418" tvg-name="SPORT KLUB 5 (SR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_5.png" group-title="SPORT",SPORT KLUB 5 (SR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/574.m3u8
+#EXTINF:-1 tvg-id="413" tvg-name="SPORT KLUB GOLF" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_golf.png" group-title="SPORT",SPORT KLUB GOLF
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 1 (SLO)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_1.png" group-title="SPORT",SPORT KLUB 1 (SLO)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 2 (SLO)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_2.png" group-title="SPORT",SPORT KLUB 2 (SLO)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 3 (SLO)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sk_3.png" group-title="SPORT",SPORT KLUB 3 (SLO)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/578.m3u8
+#EXTINF:-1 tvg-id="436" tvg-name="EUROSPORT 1 (SR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Eurosport_%282015%29.svg/revision/latest/scale-to-width-down/300?cb=20210911120727" group-title="SPORT",EUROSPORT 1 (SR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/669.m3u8
+#EXTINF:-1 tvg-id="437" tvg-name="EUROSPORT 2 (SR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eurosport_2_%282015%29.svg/revision/latest/scale-to-width-down/300?cb=20171209134527" group-title="SPORT",EUROSPORT 2 (SR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/670.m3u8
+#EXTINF:-1 tvg-id="SSPOAR" tvg-name="Sky Sports Arena (UK)" tvg-logo="http://fanc.tmsimg.com/assets/s104322_h3_aa.png" group-title="SPORT",Sky Sports Arena (UK)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/48266.m3u8
+#EXTINF:-1 tvg-id="SSPOFB" tvg-name="Sky Sport Football (UK)" tvg-logo="http://fanc.tmsimg.com/assets/s104325_ll_h3_aa.png" group-title="SPORT",Sky Sport Football (UK)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/48267.m3u8
+#EXTINF:-1 tvg-id="SSPOPL" tvg-name="Sky Sports Premier League (UK)" tvg-logo="http://fanc.tmsimg.com/assets/s89362_ll_h3_aa.png" group-title="SPORT",Sky Sports Premier League (UK)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/48268.m3u8
+#EXTINF:-1 tvg-id="SSPOME" tvg-name="Sky Sports Main Event (UK)" tvg-logo="http://fanc.tmsimg.com/assets/s17744_ll_h3_aa.png" group-title="SPORT",Sky Sports Main Event (UK)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/48269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MNE SPORT 1 (TEST)" tvg-logo="https://medias.mtel.me/medias/mne-sport-1.png?context=bWFzdGVyfGNoYW5uZWxzfDE3MTIwfGltYWdlL3BuZ3xoNmIvaGM3Lzg4MTkxNzg2NjgwNjIvbW5lX3Nwb3J0XzEucG5nfGQ1N2Y1OTZhM2NhYTIxNjYwYTZhNzQ3Y2NhNGM1NDFlMjlmNzdlZDE3MzVlZWNhNGQ2OWFlM2Y0YWE5NzQ2Y2M" group-title="SPORT",MNE SPORT 1 (TEST)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/47934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MNE SPORT 2 (TEST)" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2022/04/light-384x216-2.png" group-title="SPORT",MNE SPORT 2 (TEST)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/47935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MNE SPORT 3 (TEST)" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2022/04/light-384x216-3.png" group-title="SPORT",MNE SPORT 3 (TEST)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/47936.m3u8
+#EXTINF:-1 tvg-id="432" tvg-name="SPORTSKA TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sptv-logo.png" group-title="SPORT",SPORTSKA TV
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/584.m3u8
+#EXTINF:-1 tvg-id="435" tvg-name="SOS (SR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Cropped-SosKanalPlus-Logo-NOVI-BELA-POZADINA-FINAL-100x28-1-1-768x193.png/revision/latest/scale-to-width-down/300?cb=20200208180550" group-title="SPORT",SOS (SR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/585.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="HNTV (HR)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-hntv-684.png" group-title="SPORT",HNTV (HR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/586.m3u8
+#EXTINF:-1 tvg-id="4289" tvg-name="NOVA SPORT (SR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Nova_sport_Balkan_logo.png/revision/latest/scale-to-width-down/250?cb=20210206160423" group-title="SPORT",NOVA SPORT (SR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/587.m3u8
+#EXTINF:-1 tvg-id="528" tvg-name="B LIGA 1 (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_Sport_Bundesliga_1_HD_Logo_2020.png" group-title="SPORT",B LIGA 1 (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/588.m3u8
+#EXTINF:-1 tvg-id="528" tvg-name="B LIGA 1 (DE) L2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_Sport_Bundesliga_1_HD_Logo_2020.png" group-title="SPORT",B LIGA 1 (DE) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/589.m3u8
+#EXTINF:-1 tvg-id="529" tvg-name="B LIGA 2 (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sky_Sport_Bundesliga_2_HD_Logo_2020.png" group-title="SPORT",B LIGA 2 (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/590.m3u8
+#EXTINF:-1 tvg-id="529" tvg-name="B LIGA 2 (DE) L2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sky_Sport_Bundesliga_2_HD_Logo_2020.png" group-title="SPORT",B LIGA 2 (DE) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/591.m3u8
+#EXTINF:-1 tvg-id="530" tvg-name="B LIGA 3 (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Sky_Sport_Bundesliga_3_HD_Logo_2020.png" group-title="SPORT",B LIGA 3 (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/592.m3u8
+#EXTINF:-1 tvg-id="530" tvg-name="B LIGA 3 (DE) L2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Sky_Sport_Bundesliga_3_HD_Logo_2020.png" group-title="SPORT",B LIGA 3 (DE) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/593.m3u8
+#EXTINF:-1 tvg-id="531" tvg-name="B LIGA 4 (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Sky_Sport_Bundesliga_4_HD_Logo_2020.png" group-title="SPORT",B LIGA 4 (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/594.m3u8
+#EXTINF:-1 tvg-id="532" tvg-name="B LIGA 5 (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Sky_Sport_Bundesliga_5_HD_Logo_2020.png" group-title="SPORT",B LIGA 5 (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B LIGA 6 (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Sky_Sport_Bundesliga_6_HD_Logo_2020.png" group-title="SPORT",B LIGA 6 (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/596.m3u8
+#EXTINF:-1 tvg-id="449" tvg-name="SKY SPORT 1 (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Sky_Sport_1_logo_2020.svg/revision/latest/scale-to-width-down/300?cb=20201029123651" group-title="SPORT",SKY SPORT 1 (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/597.m3u8
+#EXTINF:-1 tvg-id="450" tvg-name="SKY SPORT 1 (DE) L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Sky_Sport_1_logo_2020.svg/revision/latest/scale-to-width-down/300?cb=20201029123651" group-title="SPORT",SKY SPORT 1 (DE) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/598.m3u8
+#EXTINF:-1 tvg-id="452" tvg-name="SKY SPORT 2 (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Sky_Sport_2_2020.svg/revision/latest/scale-to-width-down/300?cb=20201029131203" group-title="SPORT",SKY SPORT 2 (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/599.m3u8
+#EXTINF:-1 tvg-id="452" tvg-name="SKY SPORT 2 (DE) L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Sky_Sport_2_2020.svg/revision/latest/scale-to-width-down/300?cb=20201029131203" group-title="SPORT",SKY SPORT 2 (DE) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 3 (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Sky_Sport_3_2020.svg/revision/latest/scale-to-width-down/300?cb=20210810205559" group-title="SPORT",SKY SPORT 3 (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/601.m3u8
+#EXTINF:-1 tvg-id="454" tvg-name="SKY SPORT 4 (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/Sky_Sport_4_2020.svg/revision/latest/scale-to-width-down/300?cb=20201029131126" group-title="SPORT",SKY SPORT 4 (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/602.m3u8
+#EXTINF:-1 tvg-id="455" tvg-name="SKY SPORT 5 (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Sky_Sport_5_2020.svg/revision/latest/scale-to-width-down/300?cb=20210810205707" group-title="SPORT",SKY SPORT 5 (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/603.m3u8
+#EXTINF:-1 tvg-id="456" tvg-name="SKY SPORT 6 (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Sky_Sport_6.svg/revision/latest/scale-to-width-down/300?cb=20191225174204" group-title="SPORT",SKY SPORT 6 (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/604.m3u8
+#EXTINF:-1 tvg-id="448" tvg-name="SKY SPORTS NEWS (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Sky_Sport_News_2020.svg/revision/latest/scale-to-width-down/300?cb=20201029124150" group-title="SPORT",SKY SPORTS NEWS (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/607.m3u8
+#EXTINF:-1 tvg-id="3468" tvg-name="SPORT 1 (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Sport1_%282013%29.svg/revision/latest/scale-to-width-down/200?cb=20200807130918" group-title="SPORT",SPORT 1 (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/609.m3u8
+#EXTINF:-1 tvg-id="3469" tvg-name="SPORT 1+ (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Sport1plus_%282013%29.svg/revision/latest/scale-to-width-down/310?cb=20200807130756" group-title="SPORT",SPORT 1+ (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/610.m3u8
+#EXTINF:-1 tvg-id="446" tvg-name="DAZN BAR 1 (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/DAZN_1_2021.png/revision/latest/scale-to-width-down/150?cb=20210308203930" group-title="SPORT",DAZN BAR 1 (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/611.m3u8
+#EXTINF:-1 tvg-id="447" tvg-name="DAZN BAR 2 (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/DAZN2_2021.png/revision/latest/scale-to-width-down/150?cb=20210308203636" group-title="SPORT",DAZN BAR 2 (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/612.m3u8
+#EXTINF:-1 tvg-id="460" tvg-name="SKY SPORTS F1 (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Sky_Sport_F1_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924150056" group-title="SPORT",SKY SPORTS F1 (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/613.m3u8
+#EXTINF:-1 tvg-id="463" tvg-name="SKY SPORTS F1 (UK)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Sky_Sport_F1_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924150056" group-title="SPORT",SKY SPORTS F1 (UK)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AUTO MOTOR SPORT (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Auto%2C_Motor_und_Sport.svg/revision/latest/scale-to-width-down/300?cb=20210819062929" group-title="SPORT",AUTO MOTOR SPORT (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOTORVISION (DE)" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/10/Motorvision-TV.png" group-title="SPORT",MOTORVISION (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/617.m3u8
+#EXTINF:-1 tvg-id="542" tvg-name="RMC SPORT 1 (FR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Logo_RMC_Sport_1_2018.svg/revision/latest/scale-to-width-down/300?cb=20191012125536" group-title="SPORT",RMC SPORT 1 (FR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/619.m3u8
+#EXTINF:-1 tvg-id="543" tvg-name="RMC SPORT 2 (FR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Logo_RMC_Sport_2_2018.svg/revision/latest/scale-to-width-down/200?cb=20191012132613" group-title="SPORT",RMC SPORT 2 (FR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/620.m3u8
+#EXTINF:-1 tvg-id="544" tvg-name="RMC SPORT 3 (FR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Logo_RMC_Sport_3_2018.svg/revision/latest/scale-to-width-down/200?cb=20191012133707" group-title="SPORT",RMC SPORT 3 (FR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/621.m3u8
+#EXTINF:-1 tvg-id="545" tvg-name="RMC SPORT 4 (FR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Logo_RMC_Sport_4_2018.svg/revision/latest/scale-to-width-down/200?cb=20191012133111" group-title="SPORT",RMC SPORT 4 (FR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 5 (FR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/RMC_SPORT_LIVE_5_2018_OFFICIEL.png/revision/latest/scale-to-width-down/300?cb=20191103084952" group-title="SPORT",RMC SPORT 5 (FR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 6 (FR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/RMC_SPORT_LIVE_6_2018_OFFICIEL.png/revision/latest/scale-to-width-down/300?cb=20191103085110" group-title="SPORT",RMC SPORT 6 (FR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 7 (FR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/RMC_SPORT_LIVE_7_2018_OFFICIEL.png/revision/latest/scale-to-width-down/300?cb=20191103085230" group-title="SPORT",RMC SPORT 7 (FR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/625.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 8 (FR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/RMC_SPORT_LIVE_8_2018.jpg/revision/latest/scale-to-width-down/300?cb=20191103085207" group-title="SPORT",RMC SPORT 8 (FR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/626.m3u8
+#EXTINF:-1 tvg-id="473" tvg-name="BEIN SPORTS 1 (FR)" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="SPORT",BEIN SPORTS 1 (FR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/627.m3u8
+#EXTINF:-1 tvg-id="474" tvg-name="BEIN SPORTS 2 (FR)" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png" group-title="SPORT",BEIN SPORTS 2 (FR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/628.m3u8
+#EXTINF:-1 tvg-id="475" tvg-name="BEIN SPORTS 3 (FR)" tvg-logo="https://suarbarid.com/storage/bein-3/4f0629804b3c/sm__tv-guide-schedules-bein-sports.png" group-title="SPORT",BEIN SPORTS 3 (FR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 4 (FR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/BE_IN_SPORT_MAX_4_2017.png/revision/latest/scale-to-width-down/200?cb=20191022181322" group-title="SPORT",BEIN SPORTS MAX 4 (FR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 5 (FR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/BE_IN_SPORT_MAX_5_2017.png/revision/latest/scale-to-width-down/200?cb=20191022181625" group-title="SPORT",BEIN SPORTS MAX 5 (FR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 6 (FR)" tvg-logo="https://i.pinimg.com/originals/5a/37/a6/5a37a69d8fbcfa50000f8c35103b6b0f.png" group-title="SPORT",BEIN SPORTS MAX 6 (FR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 7 (FR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/BE_IN_SPORT_MAX_7_2017.png/revision/latest?cb=20191022182756" group-title="SPORT",BEIN SPORTS MAX 7 (FR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 8 (FR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/BE_IN_SPORT_MAX_8_2017.png/revision/latest/scale-to-width-down/200?cb=20191022183129" group-title="SPORT",BEIN SPORTS MAX 8 (FR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 9 (FR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/BE_IN_SPORT_MAX_9_2017.png/revision/latest/scale-to-width-down/200?cb=20191022183447" group-title="SPORT",BEIN SPORTS MAX 9 (FR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/635.m3u8
+#EXTINF:-1 tvg-id="476" tvg-name="BEIN SPORTS 1 (TR)" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="SPORT",BEIN SPORTS 1 (TR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/636.m3u8
+#EXTINF:-1 tvg-id="477" tvg-name="BEIN SPORTS 2 (TR)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjyZtuHD2aiqsVW1qdQvzNhDurZ4j1WC7Kw&usqp=CAU" group-title="SPORT",BEIN SPORTS 2 (TR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/637.m3u8
+#EXTINF:-1 tvg-id="478" tvg-name="BEIN SPORTS 3 (TR)" tvg-logo="https://suarbarid.com/storage/bein-3/4f0629804b3c/sm__tv-guide-schedules-bein-sports.png" group-title="SPORT",BEIN SPORTS 3 (TR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/638.m3u8
+#EXTINF:-1 tvg-id="479" tvg-name="BEIN SPORTS 4 (TR)" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="SPORT",BEIN SPORTS 4 (TR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/639.m3u8
+#EXTINF:-1 tvg-id="480" tvg-name="BEIN SPORTS 1 (AR)" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="SPORT",BEIN SPORTS 1 (AR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/640.m3u8
+#EXTINF:-1 tvg-id="481" tvg-name="BEIN SPORTS 2 (AR)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjyZtuHD2aiqsVW1qdQvzNhDurZ4j1WC7Kw&usqp=CAU" group-title="SPORT",BEIN SPORTS 2 (AR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/641.m3u8
+#EXTINF:-1 tvg-id="482" tvg-name="BEIN SPORTS 3 (AR)" tvg-logo="https://suarbarid.com/storage/bein-3/4f0629804b3c/sm__tv-guide-schedules-bein-sports.png" group-title="SPORT",BEIN SPORTS 3 (AR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/642.m3u8
+#EXTINF:-1 tvg-id="483" tvg-name="BEIN SPORTS 4 (AR)" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="SPORT",BEIN SPORTS 4 (AR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/643.m3u8
+#EXTINF:-1 tvg-id="484" tvg-name="BEIN SPORTS 5 (AR)" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="SPORT",BEIN SPORTS 5 (AR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/644.m3u8
+#EXTINF:-1 tvg-id="485" tvg-name="BEIN SPORTS 6 (AR)" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="SPORT",BEIN SPORTS 6 (AR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/645.m3u8
+#EXTINF:-1 tvg-id="486" tvg-name="BEIN SPORTS 7 (AR)" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="SPORT",BEIN SPORTS 7 (AR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 (AR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD9.png" group-title="SPORT",BEIN SPORTS 9 (AR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/648.m3u8
+#EXTINF:-1 tvg-id="516" tvg-name="BLUE SPORT 1 (CH)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-blue-sport-1-251.png" group-title="SPORT",BLUE SPORT 1 (CH)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/649.m3u8
+#EXTINF:-1 tvg-id="517" tvg-name="BLUE SPORT 2 (CH)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-blue-sport-2-312.png" group-title="SPORT",BLUE SPORT 2 (CH)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/650.m3u8
+#EXTINF:-1 tvg-id="470" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png" group-title="SPORT",BT SPORT 1 (UK)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/651.m3u8
+#EXTINF:-1 tvg-id="471" tvg-name="BT SPORT 2 (UK)" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png" group-title="SPORT",BT SPORT 2 (UK)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/652.m3u8
+#EXTINF:-1 tvg-id="472" tvg-name="BT SPORT 3 (UK)" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png" group-title="SPORT",BT SPORT 3 (UK)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORT 4 (UK)" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png" group-title="SPORT",BT SPORT 4 (UK)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/654.m3u8
+#EXTINF:-1 tvg-id="541" tvg-name="CANAL+ SPORT (FR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORT",CANAL+ SPORT (FR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/655.m3u8
+#EXTINF:-1 tvg-id="507" tvg-name="DIGI SPORT 1 (RO)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/digisport-1-hu-logo.png" group-title="SPORT",DIGI SPORT 1 (RO)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/656.m3u8
+#EXTINF:-1 tvg-id="508" tvg-name="DIGI SPORT 2 (RO)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/digisport-2-hu-logo.png" group-title="SPORT",DIGI SPORT 2 (RO)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/657.m3u8
+#EXTINF:-1 tvg-id="509" tvg-name="DIGI SPORT 3 (RO)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/digisport-3-hu-logo.png" group-title="SPORT",DIGI SPORT 3 (RO)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/658.m3u8
+#EXTINF:-1 tvg-id="510" tvg-name="DIGI SPORT 4 (RO)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Digi_Sport_4_2012.svg/revision/latest/scale-to-width-down/300?cb=20210812100928" group-title="SPORT",DIGI SPORT 4 (RO)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/659.m3u8
+#EXTINF:-1 tvg-id="511" tvg-name="DIGI SPORT 1 (HU)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/digisport-1-hu-logo.png" group-title="SPORT",DIGI SPORT 1 (HU)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/660.m3u8
+#EXTINF:-1 tvg-id="512" tvg-name="DIGI SPORT 2 (HU)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/digisport-2-hu-logo.png" group-title="SPORT",DIGI SPORT 2 (HU)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/661.m3u8
+#EXTINF:-1 tvg-id="497" tvg-name="ELEVEN SPORT 1 (PL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Eleven_Sports_1.svg/revision/latest/scale-to-width-down/250?cb=20210210162341" group-title="SPORT",ELEVEN SPORT 1 (PL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/663.m3u8
+#EXTINF:-1 tvg-id="498" tvg-name="ELEVEN SPORT 2 (PL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Eleven_Sports_2.svg/revision/latest/scale-to-width-down/250?cb=20210210162635" group-title="SPORT",ELEVEN SPORT 2 (PL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/664.m3u8
+#EXTINF:-1 tvg-id="499" tvg-name="ELEVEN SPORT 3 (PL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Eleven_Sports_3.svg/revision/latest/scale-to-width-down/250?cb=20210210162837" group-title="SPORT",ELEVEN SPORT 3 (PL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/665.m3u8
+#EXTINF:-1 tvg-id="500" tvg-name="ELEVEN SPORT 4 (PL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Eleven_Sports_4.svg/revision/latest/scale-to-width-down/250?cb=20210210163056" group-title="SPORT",ELEVEN SPORT 4 (PL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/666.m3u8
+#EXTINF:-1 tvg-id="438" tvg-name="EUROSPORT 1 (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Eurosport_%282015%29.svg/revision/latest/scale-to-width-down/300?cb=20210911120727" group-title="SPORT",EUROSPORT 1 (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/667.m3u8
+#EXTINF:-1 tvg-id="439" tvg-name="EUROSPORT 2 (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eurosport_2_%282015%29.svg/revision/latest/scale-to-width-down/300?cb=20171209134527" group-title="SPORT",EUROSPORT 2 (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/668.m3u8
+#EXTINF:-1 tvg-id="442" tvg-name="EUROSPORT 1 (UK)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Eurosport_%282015%29.svg/revision/latest/scale-to-width-down/300?cb=20210911120727" group-title="SPORT",EUROSPORT 1 (UK)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/671.m3u8
+#EXTINF:-1 tvg-id="443" tvg-name="EUROSPORT 2 (UK)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eurosport_2_%282015%29.svg/revision/latest/scale-to-width-down/300?cb=20171209134527" group-title="SPORT",EUROSPORT 2 (UK)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/672.m3u8
+#EXTINF:-1 tvg-id="444" tvg-name="EUROSPORT 1 (FR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Eurosport_%282015%29.svg/revision/latest/scale-to-width-down/300?cb=20210911120727" group-title="SPORT",EUROSPORT 1 (FR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/673.m3u8
+#EXTINF:-1 tvg-id="445" tvg-name="EUROSPORT 2 (FR)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eurosport_2_%282015%29.svg/revision/latest/scale-to-width-down/300?cb=20171209134527" group-title="SPORT",EUROSPORT 2 (FR)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/674.m3u8
+#EXTINF:-1 tvg-id="4221" tvg-name="EUROSPORT 1 (RO)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Eurosport_%282015%29.svg/revision/latest/scale-to-width-down/300?cb=20210911120727" group-title="SPORT",EUROSPORT 1 (RO)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/675.m3u8
+#EXTINF:-1 tvg-id="4222" tvg-name="EUROSPORT 2 (RO)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eurosport_2_%282015%29.svg/revision/latest/scale-to-width-down/300?cb=20171209134527" group-title="SPORT",EUROSPORT 2 (RO)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 XTRA HD (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Eurosport_2_HD_XTRA_Logo_2017.png/795px-Eurosport_2_HD_XTRA_Logo_2017.png" group-title="SPORT",EUROSPORT 2 XTRA HD (DE)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/677.m3u8
+#EXTINF:-1 tvg-id="4223" tvg-name="EXTREME SPORTS (RO)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/1200px-Extreme_Sports_Channel.svg.png" group-title="SPORT",EXTREME SPORTS (RO)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/678.m3u8
+#EXTINF:-1 tvg-id="547" tvg-name="NOVA SPORT (BG)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Nova_sport_logo.png/revision/latest/scale-to-width-down/200?cb=20110912134226" group-title="SPORT",NOVA SPORT (BG)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/679.m3u8
+#EXTINF:-1 tvg-id="548" tvg-name="FIGHT BOX (BG)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/FightBoxHD_logo.png" group-title="SPORT",FIGHT BOX (BG)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/680.m3u8
+#EXTINF:-1 tvg-id="550" tvg-name="FIGHT CHANNEL (USA)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Fight-channel.png/revision/latest/scale-to-width-down/200?cb=20210613123244" group-title="SPORT",FIGHT CHANNEL (USA)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV (USA)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20210715160314" group-title="SPORT",NBA TV (USA)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/682.m3u8
+#EXTINF:-1 tvg-id="551" tvg-name="REAL MADRID TV (SPA)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/RMTDT.jpg/revision/latest/scale-to-width-down/180?cb=20191224175627" group-title="SPORT",REAL MADRID TV (SPA)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/684.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BARCA TV (SPA)" tvg-logo="https://www.wseurope-rinkhockey.org/wp-content/uploads/2017/04/barcatv.png" group-title="SPORT",BARCA TV (SPA)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/685.m3u8
+#EXTINF:-1 tvg-id="468" tvg-name="SKY SPORTS CRICKET (UK)" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1134.1507600280.png" group-title="SPORT",SKY SPORTS CRICKET (UK)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/686.m3u8
+#EXTINF:-1 tvg-id="465" tvg-name="SKY SPORTS GOLF (UK)" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1110.1507600318.png" group-title="SPORT",SKY SPORTS GOLF (UK)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS MAIN EVENT (UK)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png" group-title="SPORT",SKY SPORTS MAIN EVENT (UK)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/688.m3u8
+#EXTINF:-1 tvg-id="467" tvg-name="SKY SPORTS MIX (UK)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Sky_Sport_Mix_HD.svg/revision/latest/scale-to-width-down/300?cb=20180730211145" group-title="SPORT",SKY SPORTS MIX (UK)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/689.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS PREMIER LEAGUE (UK)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Sports_Premier_League_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152906" group-title="SPORT",SKY SPORTS PREMIER LEAGUE (UK)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/49326.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS RACING (UK)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Sky_Sports_Racing_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152940" group-title="SPORT",SKY SPORTS RACING (UK)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/49327.m3u8
+#EXTINF:-1 tvg-id="523" tvg-name="SPORT TV 1 (PT)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Sport_TV1.svg/revision/latest/scale-to-width-down/200?cb=20160903152057" group-title="SPORT",SPORT TV 1 (PT)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/690.m3u8
+#EXTINF:-1 tvg-id="524" tvg-name="SPORT TV 2 (PT)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Sport_TV2.svg/revision/latest/scale-to-width-down/200?cb=20160903152143" group-title="SPORT",SPORT TV 2 (PT)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/691.m3u8
+#EXTINF:-1 tvg-id="525" tvg-name="SPORT TV 3 (PT)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Sport_TV3.svg/revision/latest/scale-to-width-down/200?cb=20160903152713" group-title="SPORT",SPORT TV 3 (PT)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/692.m3u8
+#EXTINF:-1 tvg-id="526" tvg-name="SPORT TV 4 (PT)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Sport_TV4.svg/revision/latest/scale-to-width-down/200?cb=20160903152935" group-title="SPORT",SPORT TV 4 (PT)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/693.m3u8
+#EXTINF:-1 tvg-id="527" tvg-name="SPORT TV 5 (PT)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Sport_TV5.svg/revision/latest/scale-to-width-down/200?cb=20160903153007" group-title="SPORT",SPORT TV 5 (PT)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/694.m3u8
+#EXTINF:-1 tvg-id="553" tvg-name="SUPER SPORT NEWS (AL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/SS1-Albania.jpg/revision/latest/scale-to-width-down/150?cb=20160805101035" group-title="SPORT",SUPER SPORT NEWS (AL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/695.m3u8
+#EXTINF:-1 tvg-id="554" tvg-name="SUPER SPORT 2 (AL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SS2-Albania.jpg/revision/latest/scale-to-width-down/132?cb=20160805102138" group-title="SPORT",SUPER SPORT 2 (AL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/696.m3u8
+#EXTINF:-1 tvg-id="555" tvg-name="SUPER SPORT 3 (AL)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/SuperSport3-Albania.png" group-title="SPORT",SUPER SPORT 3 (AL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SPORT 4 (AL)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SuperSport4-Albania.png" group-title="SPORT",SUPER SPORT 4 (AL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/698.m3u8
+#EXTINF:-1 tvg-id="557" tvg-name="TRING SPORT 1 (AL)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/TringSport1-HD_logo.png" group-title="SPORT",TRING SPORT 1 (AL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/699.m3u8
+#EXTINF:-1 tvg-id="558" tvg-name="TRING SPORT 2 (AL)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sport2-hd-logo.png" group-title="SPORT",TRING SPORT 2 (AL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/700.m3u8
+#EXTINF:-1 tvg-id="559" tvg-name="TRING SPORT 3 (AL)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sport3-hd-logo.png" group-title="SPORT",TRING SPORT 3 (AL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT 4 (AL)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sport4-hd-logo.png" group-title="SPORT",TRING SPORT 4 (AL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/702.m3u8
+#EXTINF:-1 tvg-id="518" tvg-name="TSN 1 (CA)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/TSN1_new.png/revision/latest/scale-to-width-down/300?cb=20150906020053" group-title="SPORT",TSN 1 (CA)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/703.m3u8
+#EXTINF:-1 tvg-id="519" tvg-name="TSN 2 (CA)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TSN2.png/revision/latest/scale-to-width-down/250?cb=20150906015918" group-title="SPORT",TSN 2 (CA)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/704.m3u8
+#EXTINF:-1 tvg-id="520" tvg-name="TSN 3 (CA)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TSN3_svg.png/revision/latest/scale-to-width-down/300?cb=20150709183134" group-title="SPORT",TSN 3 (CA)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/705.m3u8
+#EXTINF:-1 tvg-id="522" tvg-name="TSN 4 (CA)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/TSN5_svg.png/revision/latest/scale-to-width-down/250?cb=20150709183505" group-title="SPORT",TSN 4 (CA)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/706.m3u8
+#EXTINF:-1 tvg-id="537" tvg-name="C MORE FOTBOLL(SW)" tvg-logo="https://ewsat.com/img/C_MORE_FOTBOLL.png" group-title="SPORT",C MORE FOTBOLL(SW)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/707.m3u8
+#EXTINF:-1 tvg-id="535" tvg-name="C MORE HOCKEY (SW)" tvg-logo="https://ewsat.com/img/C_MORE_HOCKEY.png" group-title="SPORT",C MORE HOCKEY (SW)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/708.m3u8
+#EXTINF:-1 tvg-id="534" tvg-name="C MORE LIVE (SW)" tvg-logo="https://ewsat.com/img/C_MORE_LIVE_5.png" group-title="SPORT",C MORE LIVE (SW)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/709.m3u8
+#EXTINF:-1 tvg-id="536" tvg-name="C MORE SPORT (SW)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/C_More_Sport_2016.svg/revision/latest/scale-to-width-down/250?cb=20191210161205" group-title="SPORT",C MORE SPORT (SW)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/710.m3u8
+#EXTINF:-1 tvg-id="540" tvg-name="VIASAT FOTBOLL (SW)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/V_sport_football.png/revision/latest/scale-to-width-down/145?cb=20211101170947" group-title="SPORT",VIASAT FOTBOLL (SW)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/711.m3u8
+#EXTINF:-1 tvg-id="1813" tvg-name="VIASAT GOLF (SW)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/V_Sport_Golf_2020.svg/revision/latest/scale-to-width-down/145?cb=20210808125439" group-title="SPORT",VIASAT GOLF (SW)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/712.m3u8
+#EXTINF:-1 tvg-id="533" tvg-name="VIASAT MOTOR (SW)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/V_sport_motor.png/revision/latest/scale-to-width-down/145?cb=20211101170947" group-title="SPORT",VIASAT MOTOR (SW)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/713.m3u8
+#EXTINF:-1 tvg-id="539" tvg-name="VIASAT SPORT (SW)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/V_Sport_%282020%29.svg/revision/latest/scale-to-width-down/250?cb=20200603202906" group-title="SPORT",VIASAT SPORT (SW)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/714.m3u8
+#EXTINF:-1 tvg-id="538" tvg-name="VIASAT SPORT PREMIUM (SW)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/V_sport_premium.png/revision/latest/scale-to-width-down/145?cb=20211101170947" group-title="SPORT",VIASAT SPORT PREMIUM (SW)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 (NL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Eurosport_%282015%29.svg/revision/latest/scale-to-width-down/300?cb=20210911120727" group-title="SPORT",EUROSPORT 1 (NL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 (NL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eurosport_2_%282015%29.svg/revision/latest/scale-to-width-down/300?cb=20171209134527" group-title="SPORT",EUROSPORT 2 (NL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 (NL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/300?cb=20201130040927" group-title="SPORT",ESPN 1 (NL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/718.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="ESPN 1 (NL) L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/300?cb=20201130040927" group-title="SPORT",ESPN 1 (NL) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/719.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="ESPN 2 (NL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg/revision/latest/scale-to-width-down/250?cb=20210609161318" group-title="SPORT",ESPN 2 (NL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/720.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="ESPN 2 (NL) L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg/revision/latest/scale-to-width-down/250?cb=20210609161318" group-title="SPORT",ESPN 2 (NL) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (NL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/ESPN_3.svg/revision/latest/scale-to-width-down/300?cb=20211120194355" group-title="SPORT",ESPN 3 (NL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (NL) L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/ESPN_3.svg/revision/latest/scale-to-width-down/300?cb=20211120194355" group-title="SPORT",ESPN 3 (NL) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 (NL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/250?cb=20211120194330" group-title="SPORT",ESPN 4 (NL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 (NL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg/revision/latest/scale-to-width-down/300?cb=20211120193957" group-title="SPORT",ESPN 5 (NL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/725.m3u8
+#EXTINF:-1 tvg-id="495" tvg-name="ZIGGO SPORT VOETBAL (NL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Ziggo_Sport_Voetbal.svg/revision/latest/scale-to-width-down/250?cb=20210222130814" group-title="SPORT",ZIGGO SPORT VOETBAL (NL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/727.m3u8
+#EXTINF:-1 tvg-id="495" tvg-name="ZIGGO SPORT VOETBAL (NL) L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Ziggo_Sport_Voetbal.svg/revision/latest/scale-to-width-down/250?cb=20210222130814" group-title="SPORT",ZIGGO SPORT VOETBAL (NL) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/728.m3u8
+#EXTINF:-1 tvg-id="492" tvg-name="ZIGGO SPORT SELECT (NL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Ziggo_Sport_Select.svg/revision/latest/scale-to-width-down/250?cb=20210222131051" group-title="SPORT",ZIGGO SPORT SELECT (NL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/729.m3u8
+#EXTINF:-1 tvg-id="492" tvg-name="ZIGGO SPORT SELECT (NL) L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Ziggo_Sport_Select.svg/revision/latest/scale-to-width-down/250?cb=20210222131051" group-title="SPORT",ZIGGO SPORT SELECT (NL) L2
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/730.m3u8
+#EXTINF:-1 tvg-id="491" tvg-name="ZIGGO SPORT EXTRA (NL)" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-Ziggo-Sport-Extra.png" group-title="SPORT",ZIGGO SPORT EXTRA (NL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/731.m3u8
+#EXTINF:-1 tvg-id="496" tvg-name="ZIGGO SPORT RACING (NL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Ziggo_Sport_Racing.svg/revision/latest/scale-to-width-down/250?cb=20210222131502" group-title="SPORT",ZIGGO SPORT RACING (NL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/732.m3u8
+#EXTINF:-1 tvg-id="494" tvg-name="ZIGGO SPORT GOLF (NL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Ziggo_Sport_Golf.svg/revision/latest/scale-to-width-down/250?cb=20210222131220" group-title="SPORT",ZIGGO SPORT GOLF (NL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/733.m3u8
+#EXTINF:-1 tvg-id="ZIGSPDO" tvg-name="ZIGGO SPORT DOCU (NL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Ziggo_Sport_Docu.svg/revision/latest/scale-to-width-down/250?cb=20210222131836" group-title="SPORT",ZIGGO SPORT DOCU (NL)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT NBA (IT)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Sky_Sport_NBA_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924145924" group-title="SPORT",SKY SPORT NBA (IT)
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/37344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 (IT) TEST" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/DAZN_1_2021.png/revision/latest/scale-to-width-down/150?cb=20210308203930" group-title="SPORT",DAZN 1 (IT) TEST
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/44201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 (IT) TEST" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/DAZN2_2021.png/revision/latest/scale-to-width-down/150?cb=20210308203636" group-title="SPORT",DAZN 2 (IT) TEST
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/44202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 24 (IT) TEST" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Sky_Sport_24_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924145504" group-title="SPORT",SKY SPORT 24 (IT) TEST
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/44203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT F1 (IT) TEST" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Sky_Sport_F1_2020.svg/revision/latest/scale-to-width-down/220?cb=20200924150056" group-title="SPORT",SKY SPORT F1 (IT) TEST
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/44204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT FOOTBALL (IT) TEST" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Sky_Sport_Football_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924145617" group-title="SPORT",SKY SPORT FOOTBALL (IT) TEST
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/44205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT UNO (IT) TEST" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sky_Sport_Uno_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924145530" group-title="SPORT",SKY SPORT UNO (IT) TEST
+http://balkan-x.net:80/yyXc7t6wvb/94atZuqgPr/44206.m3u8
