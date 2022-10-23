@@ -1,0 +1,38 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="458" tvg-name="SKY SPORT AUSTRIA (AT)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sky_Sport_Austria_2020.svg/revision/latest/scale-to-width-down/300?cb=20201029130114" group-title="SPORT",SKY SPORT AUSTRIA (AT)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/605.m3u8
+#EXTINF:-1 tvg-id="458" tvg-name="SKY SPORT AUSTRIA L2 (AT)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sky_Sport_Austria_2020.svg/revision/latest/scale-to-width-down/300?cb=20201029130114" group-title="SPORT",SKY SPORT AUSTRIA L2 (AT)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/606.m3u8
+#EXTINF:-1 tvg-id="459" tvg-name="ORF SPORT+ (AT)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/orf-sport-plus-logo.jpg" group-title="SPORT",ORF SPORT+ (AT)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/683.m3u8
+#EXTINF:-1 tvg-id="3499" tvg-name="W24 (AT)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/w24_logo.png" group-title="A_AUSTRIJA",W24 (AT)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/768.m3u8
+#EXTINF:-1 tvg-id="3500" tvg-name="DORFTV (AT)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Dorf_TV_old.png/revision/latest?cb=20150223220858" group-title="A_AUSTRIJA",DORFTV (AT)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/781.m3u8
+#EXTINF:-1 tvg-id="3498" tvg-name="OE24 (AT)" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2021/08/oe24-at-logo-vector-xs.png" group-title="A_AUSTRIJA",OE24 (AT)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/794.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOLX TV (AT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Folx_TV.png" group-title="A_AUSTRIJA",FOLX TV (AT)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/850.m3u8
+#EXTINF:-1 tvg-id="646" tvg-name="ORF 1 (AT)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/ORF_1_2019.svg/revision/latest/scale-to-width-down/300?cb=20190426213813" group-title="A_AUSTRIJA",ORF 1 (AT)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/869.m3u8
+#EXTINF:-1 tvg-id="647" tvg-name="ORF 2 (AT)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/ORF2_horiz.svg/revision/latest/scale-to-width-down/300?cb=20201223181915" group-title="A_AUSTRIJA",ORF 2 (AT)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/870.m3u8
+#EXTINF:-1 tvg-id="648" tvg-name="ORF 3 (AT)" tvg-logo="http://vipotv.com/wp-content/uploads/2021/09/orf-3-live-vipotv-german.png" group-title="A_AUSTRIJA",ORF 3 (AT)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SERVUS TV (AT)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/ServusTV.svg/revision/latest/scale-to-width-down/250?cb=20120221120838" group-title="A_AUSTRIJA",SERVUS TV (AT)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/872.m3u8
+#EXTINF:-1 tvg-id="649" tvg-name="ATV (AT)" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/atv-sender-logo-275779.png" group-title="A_AUSTRIJA",ATV (AT)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/873.m3u8
+#EXTINF:-1 tvg-id="650" tvg-name="ATV 2 (AT)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/atv2-logo.png" group-title="A_AUSTRIJA",ATV 2 (AT)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/874.m3u8
+#EXTINF:-1 tvg-id="651" tvg-name="PULS 4 (AT)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Puls_4_logo.svg/revision/latest/scale-to-width-down/300?cb=20100927181453" group-title="A_AUSTRIJA",PULS 4 (AT)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/875.m3u8
+#EXTINF:-1 tvg-id="652" tvg-name="SIXX (AT)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/SixxAT.svg/revision/latest/scale-to-width-down/150?cb=20131026230022" group-title="A_AUSTRIJA",SIXX (AT)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/876.m3u8
+#EXTINF:-1 tvg-id="601" tvg-name="DMAX (AT)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838" group-title="A_AUSTRIJA",DMAX (AT)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/877.m3u8
+#EXTINF:-1 tvg-id="592" tvg-name="N24 DOKU (AT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/N24Doku.png" group-title="A_AUSTRIJA",N24 DOKU (AT)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="::::: AT_AUSTRIJA :::::" tvg-logo="https://i23.delachieve.com/image/d85a5b8e62720e6c.jpg" group-title="A_AUSTRIJA",::::: AT_AUSTRIJA :::::
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/10461.m3u8

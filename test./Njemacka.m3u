@@ -1,0 +1,180 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="::::: NJEMACKA :::::" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/255px-Flag_of_Germany.svg.png" group-title="DE_NJEMACKA",::::: NJEMACKA :::::
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/49248.m3u8
+#EXTINF:-1 tvg-id="562" tvg-name="RTL (DE)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/rtl-logo.png" group-title="DE_NJEMACKA",RTL (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/737.m3u8
+#EXTINF:-1 tvg-id="565" tvg-name="RTL 2 (DE)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/rtl_zwei.png" group-title="DE_NJEMACKA",RTL 2 (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/739.m3u8
+#EXTINF:-1 tvg-id="567" tvg-name="RTL CRIME (DE)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/rtl_crime_de_logo.png" group-title="DE_NJEMACKA",RTL CRIME (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/740.m3u8
+#EXTINF:-1 tvg-id="569" tvg-name="RTL LIVING HD (DE)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/rtl_living_de.png" group-title="DE_NJEMACKA",RTL LIVING HD (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/742.m3u8
+#EXTINF:-1 tvg-id="568" tvg-name="RTL NITRO (DE)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/nitro_logo.png" group-title="DE_NJEMACKA",RTL NITRO (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/743.m3u8
+#EXTINF:-1 tvg-id="570" tvg-name="RTL PASSION (DE)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/rtl_passion_de_logo_.png" group-title="DE_NJEMACKA",RTL PASSION (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/744.m3u8
+#EXTINF:-1 tvg-id="566" tvg-name="RTL UP (DE)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/rtlplus-de_logo.png" group-title="DE_NJEMACKA",RTL UP (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/745.m3u8
+#EXTINF:-1 tvg-id="377" tvg-name="SUPER RTL (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Superrtl_orange_2019.svg/revision/latest/scale-to-width-down/250?cb=20191113194811" group-title="DE_NJEMACKA",SUPER RTL (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/746.m3u8
+#EXTINF:-1 tvg-id="572" tvg-name="PRO 7 (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png" group-title="DE_NJEMACKA",PRO 7 (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/747.m3u8
+#EXTINF:-1 tvg-id="572" tvg-name="PRO 7 (DE) L2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png" group-title="DE_NJEMACKA",PRO 7 (DE) L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/748.m3u8
+#EXTINF:-1 tvg-id="573" tvg-name="PRO 7 FUN HD (DE)" tvg-logo="http://2.bp.blogspot.com/-quSKTcGQBVg/T47pu8kqRSI/AAAAAAAAFAI/8iMHVxCkU7c/s600/ProSieben+Fun+logo+2012.jpg" group-title="DE_NJEMACKA",PRO 7 FUN HD (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/749.m3u8
+#EXTINF:-1 tvg-id="574" tvg-name="PRO 7 MAXX(DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/2000px-ProSieben_MAXX_Logo.svg.png" group-title="DE_NJEMACKA",PRO 7 MAXX(DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/750.m3u8
+#EXTINF:-1 tvg-id="619" tvg-name="13 STREET (DE)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/13street_de.png" group-title="DE_NJEMACKA",13 STREET (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/751.m3u8
+#EXTINF:-1 tvg-id="579" tvg-name="3SAT (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/3sat_2019.svg/revision/latest/scale-to-width-down/250?cb=20190124204856" group-title="DE_NJEMACKA",3SAT (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/753.m3u8
+#EXTINF:-1 tvg-id="576" tvg-name="SAT 1 (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/c8/Sat.1_HD_Logo.png/800px-Sat.1_HD_Logo.png?20120329142915" group-title="DE_NJEMACKA",SAT 1 (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/754.m3u8
+#EXTINF:-1 tvg-id="578" tvg-name="SAT 1 EMOTIONS HD (DE)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sat1emotions-logo.png" group-title="DE_NJEMACKA",SAT 1 EMOTIONS HD (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/755.m3u8
+#EXTINF:-1 tvg-id="577" tvg-name="SAT 1 GOLD (DE)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sat1gold-logo.png" group-title="DE_NJEMACKA",SAT 1 GOLD (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/756.m3u8
+#EXTINF:-1 tvg-id="582" tvg-name="DAS ERSTE (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/DasErste2014.svg/revision/latest/scale-to-width-down/300?cb=20150303125037" group-title="DE_NJEMACKA",DAS ERSTE (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/757.m3u8
+#EXTINF:-1 tvg-id="589" tvg-name="KABEL EINS (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Kabel_Eins_logo_2011.svg/revision/latest/scale-to-width-down/300?cb=20110814192353" group-title="DE_NJEMACKA",KABEL EINS (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/758.m3u8
+#EXTINF:-1 tvg-id="591" tvg-name="KABEL EINS CLASSIC HD (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Kabel_Eins_Classics_2021.svg/revision/latest/scale-to-width-down/300?cb=20210520031051" group-title="DE_NJEMACKA",KABEL EINS CLASSIC HD (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/759.m3u8
+#EXTINF:-1 tvg-id="590" tvg-name="KABEL EINS DOKU (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Kabel_eins_Doku_%282016%29.svg/revision/latest/scale-to-width-down/300?cb=20200807111359" group-title="DE_NJEMACKA",KABEL EINS DOKU (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/760.m3u8
+#EXTINF:-1 tvg-id="584" tvg-name="ZDF (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/ZDF_logo.svg/revision/latest/scale-to-width-down/200?cb=20210713175437" group-title="DE_NJEMACKA",ZDF (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/761.m3u8
+#EXTINF:-1 tvg-id="585" tvg-name="ZDF INFO HD (DE)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/zdf-info-logo.png" group-title="DE_NJEMACKA",ZDF INFO HD (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/762.m3u8
+#EXTINF:-1 tvg-id="3497" tvg-name="ZDF NEO (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/ZDFneo_2017_2.svg/revision/latest/scale-to-width-down/200?cb=20200906132425" group-title="DE_NJEMACKA",ZDF NEO (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/763.m3u8
+#EXTINF:-1 tvg-id="580" tvg-name="VOX (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/VOX_Logo_2013.svg/revision/latest/scale-to-width-down/200?cb=20190508090252" group-title="DE_NJEMACKA",VOX (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/764.m3u8
+#EXTINF:-1 timeshift="2" tvg-id="580" tvg-name="VOX (DE) L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/VOX_Logo_2013.svg/revision/latest/scale-to-width-down/200?cb=20190508090252" group-title="DE_NJEMACKA",VOX (DE) L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/765.m3u8
+#EXTINF:-1 tvg-id="627" tvg-name="N-TV HD (DE)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/ntv-de-logo.png" group-title="DE_NJEMACKA",N-TV HD (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/766.m3u8
+#EXTINF:-1 tvg-id="592" tvg-name="N24 DOKU HD (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/N24_Doku.svg/revision/latest/scale-to-width-down/300?cb=20210506202556" group-title="DE_NJEMACKA",N24 DOKU HD (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/767.m3u8
+#EXTINF:-1 tvg-id="630" tvg-name="WDR (DE)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/WDR_Re-Branding_2012_Logo.png" group-title="DE_NJEMACKA",WDR (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/769.m3u8
+#EXTINF:-1 tvg-id="586" tvg-name="WELT TV (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Welt.svg/revision/latest/scale-to-width-down/240?cb=20180117110807" group-title="DE_NJEMACKA",WELT TV (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/770.m3u8
+#EXTINF:-1 tvg-id="629" tvg-name="ANIXE (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Anixe_HD.svg/revision/latest/scale-to-width-down/250?cb=20100524152014" group-title="DE_NJEMACKA",ANIXE (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/773.m3u8
+#EXTINF:-1 tvg-id="588" tvg-name="ARD ALPHA HD (DE)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/ARD-alpha-logo.png" group-title="DE_NJEMACKA",ARD ALPHA HD (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/774.m3u8
+#EXTINF:-1 tvg-id="581" tvg-name="ARTE (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Arte_Logo_2011.svg/revision/latest/scale-to-width-down/250?cb=20191209231827" group-title="DE_NJEMACKA",ARTE (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/775.m3u8
+#EXTINF:-1 tvg-id="598" tvg-name="CRIME+INVENSTIGATION (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/C%26I_logo.svg/revision/latest/scale-to-width-down/200?cb=20190613183256" group-title="DE_NJEMACKA",CRIME+INVENSTIGATION (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/777.m3u8
+#EXTINF:-1 tvg-id="601" tvg-name="DMAX (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838" group-title="DE_NJEMACKA",DMAX (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/778.m3u8
+#EXTINF:-1 tvg-id="601" tvg-name="DMAX (DE) L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838" group-title="DE_NJEMACKA",DMAX (DE) L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/779.m3u8
+#EXTINF:-1 tvg-id="624" tvg-name="KINOWELT TV (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kinowelt_Television_2020.svg/revision/latest/scale-to-width-down/250?cb=20210504125351" group-title="DE_NJEMACKA",KINOWELT TV (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/783.m3u8
+#EXTINF:-1 tvg-id="596" tvg-name="NATIONAL GEOGRAPHIC (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/300?cb=20170701154034" group-title="DE_NJEMACKA",NATIONAL GEOGRAPHIC (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/784.m3u8
+#EXTINF:-1 tvg-id="597" tvg-name="NATIONAL GEOGRAPHIC WILD (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/National_Geographic_Wild_2018.svg/revision/latest/scale-to-width-down/250?cb=20180903172554" group-title="DE_NJEMACKA",NATIONAL GEOGRAPHIC WILD (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/785.m3u8
+#EXTINF:-1 tvg-id="593" tvg-name="ANIMAL PLANET (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20210825085349" group-title="DE_NJEMACKA",ANIMAL PLANET (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/786.m3u8
+#EXTINF:-1 tvg-id="594" tvg-name="DISCOVERY CHANNEL (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Discovery%2C_Inc_logo.svg/revision/latest/scale-to-width-down/300?cb=20201208122626" group-title="DE_NJEMACKA",DISCOVERY CHANNEL (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/787.m3u8
+#EXTINF:-1 tvg-id="600" tvg-name="E! (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/E%21_1990.svg/revision/latest/scale-to-width-down/70?cb=20180304103018" group-title="DE_NJEMACKA",E! (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/788.m3u8
+#EXTINF:-1 tvg-id="595" tvg-name="HISTORY CHANNEL (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/History_%282015%29.svg/revision/latest/scale-to-width-down/200?cb=20180119222457" group-title="DE_NJEMACKA",HISTORY CHANNEL (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/789.m3u8
+#EXTINF:-1 tvg-id="599" tvg-name="TLC (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/TLC_%282006%29.svg/revision/latest/scale-to-width-down/300?cb=20210606163834" group-title="DE_NJEMACKA",TLC (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/790.m3u8
+#EXTINF:-1 tvg-id="626" tvg-name="NDR HD (DE)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NDR_Dachmarke.png" group-title="DE_NJEMACKA",NDR HD (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/791.m3u8
+#EXTINF:-1 tvg-id="3494" tvg-name="O TV HD (DE)" tvg-logo="https://www.regio-tv.de/wp-content/themes/cmms-theme-regio_tv/assets/img/regio-tv-logo-stuttgart.png" group-title="DE_NJEMACKA",O TV HD (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/793.m3u8
+#EXTINF:-1 tvg-id="625" tvg-name="PHOENIX (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Phoenix_2018.svg/revision/latest/scale-to-width-down/250?cb=20180604172110" group-title="DE_NJEMACKA",PHOENIX (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/795.m3u8
+#EXTINF:-1 tvg-id="3495" tvg-name="RFO TV (DE)" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/rfo-sender-logo-276006.png" group-title="DE_NJEMACKA",RFO TV (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/796.m3u8
+#EXTINF:-1 tvg-id="615" tvg-name="TNT COMEDY (DE)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/tnt_comedy_de.png" group-title="DE_NJEMACKA",TNT COMEDY (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/833.m3u8
+#EXTINF:-1 tvg-id="616" tvg-name="TNT FILM (DE)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/tnt_film_de.png" group-title="DE_NJEMACKA",TNT FILM (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/834.m3u8
+#EXTINF:-1 tvg-id="617" tvg-name="TNT SERIE (DE)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/tnt_serie_de.png" group-title="DE_NJEMACKA",TNT SERIE (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY AXN (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Sony_AXN_2019.png/revision/latest/scale-to-width-down/200?cb=20210318201448" group-title="DE_NJEMACKA",SONY AXN (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/836.m3u8
+#EXTINF:-1 tvg-id="628" tvg-name="SPIEGEL GESCHICHTE HD (DE)" tvg-logo="https://www.infosat.de/sites/default/files/news/spiegelgeschichteHD655440.jpg" group-title="DE_NJEMACKA",SPIEGEL GESCHICHTE HD (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/837.m3u8
+#EXTINF:-1 tvg-id="603" tvg-name="SYFY (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Syfy_%282017%29.svg/revision/latest/scale-to-width-down/300?cb=20171210093256" group-title="DE_NJEMACKA",SYFY (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV INGOLSTADT HD (DE)" tvg-logo="https://eveeno.com/public/generic/16011/uploads/banner.jpg?1559560239" group-title="DE_NJEMACKA",TV INGOLSTADT HD (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/839.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Universal_Pictures_2021.png/revision/latest/scale-to-width-down/300?cb=20210725083322" group-title="DE_NJEMACKA",UNIVERSAL CHANNEL (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/840.m3u8
+#EXTINF:-1 tvg-id="TELE5HD" tvg-name="TELE 5 (DE)" tvg-logo="http://fanc.tmsimg.com/assets/s84372_ll_h3_aa.png" group-title="DE_NJEMACKA",TELE 5 (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/14885.m3u8
+#EXTINF:-1 tvg-id="566" tvg-name="RTL PLUS (DE)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/rtlplus-de_logo.png" group-title="DE_NJEMACKA",RTL PLUS (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/45269.m3u8
+#EXTINF:-1 tvg-id="575" tvg-name="ROMANCE TV (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Romance_TV_2015.svg/revision/latest/scale-to-width-down/300?cb=20180118114841" group-title="DE_NJEMACKA",ROMANCE TV (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/797.m3u8
+#EXTINF:-1 tvg-id="583" tvg-name="SIXX (DE)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sixx-logo.png" group-title="DE_NJEMACKA",SIXX (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/798.m3u8
+#EXTINF:-1 tvg-id="618" tvg-name="FOX (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Fox_2019.svg/revision/latest/scale-to-width-down/200?cb=20210629013252" group-title="DE_NJEMACKA",FOX (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/799.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EAGLE CINEMA DRAMA HD" tvg-logo="http://epg.netsolutionpro.com/logo/balkan_x.jpeg" group-title="DE_NJEMACKA",EAGLE CINEMA DRAMA HD
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/802.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EAGLE CINEMA PREMIERE" tvg-logo="http://epg.netsolutionpro.com/logo/balkan_x.jpeg" group-title="DE_NJEMACKA",EAGLE CINEMA PREMIERE
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EAGLE CINEMA HORROR HD" tvg-logo="http://epg.netsolutionpro.com/logo/balkan_x.jpeg" group-title="DE_NJEMACKA",EAGLE CINEMA HORROR HD
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EAGLE CINEMA KOMEDIE HD" tvg-logo="http://epg.netsolutionpro.com/logo/balkan_x.jpeg" group-title="DE_NJEMACKA",EAGLE CINEMA KOMEDIE HD
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/805.m3u8
+#EXTINF:-1 tvg-id="623" tvg-name="SKY 1 HD (DE)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sky_1_de.png" group-title="DE_NJEMACKA",SKY 1 HD (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/808.m3u8
+#EXTINF:-1 tvg-id="620" tvg-name="SKY ATLANTIC (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Sky_Atlantic_2020.svg/revision/latest/scale-to-width-down/300?cb=20210116003838" group-title="DE_NJEMACKA",SKY ATLANTIC (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/809.m3u8
+#EXTINF:-1 tvg-id="607" tvg-name="SKY CINEMA ACTION (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Sky_Cinema_Action_2020.svg/revision/latest/scale-to-width-down/300?cb=20210118213113" group-title="DE_NJEMACKA",SKY CINEMA ACTION (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/810.m3u8
+#EXTINF:-1 tvg-id="609" tvg-name="SKY CINEMA BEST OF (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Sky_Cinema_Best_Of_2020.svg/revision/latest/scale-to-width-down/300?cb=20201029120457" group-title="DE_NJEMACKA",SKY CINEMA BEST OF (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/811.m3u8
+#EXTINF:-1 tvg-id="608" tvg-name="SKY CINEMA FAMILY (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Sky_Cinema_Family_2020.svg/revision/latest/scale-to-width-down/300?cb=20210118213029" group-title="DE_NJEMACKA",SKY CINEMA FAMILY (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/812.m3u8
+#EXTINF:-1 tvg-id="613" tvg-name="SKY CINEMA NOSTALGIE (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sky_Cinema_Nostalgie_DE_Logo_2016.png/320px-Sky_Cinema_Nostalgie_DE_Logo_2016.png" group-title="DE_NJEMACKA",SKY CINEMA NOSTALGIE (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA PREMIEREN (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Sky_Cinema_Premieren_2020.svg/revision/latest/scale-to-width-down/400?cb=20201029115516" group-title="DE_NJEMACKA",SKY CINEMA PREMIEREN (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/815.m3u8
+#EXTINF:-1 tvg-id="611" tvg-name="SKY CINEMA SPECIAL (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Sky_Cinema_Special_2020.svg/revision/latest/scale-to-width-down/300?cb=20201029120959" group-title="DE_NJEMACKA",SKY CINEMA SPECIAL (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/816.m3u8
+#EXTINF:-1 tvg-id="612" tvg-name="SKY CINEMA THRILLER (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Sky_Cinema_Thriller_2020.svg/revision/latest/scale-to-width-down/300?cb=20201029120808" group-title="DE_NJEMACKA",SKY CINEMA THRILLER (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/817.m3u8
+#EXTINF:-1 tvg-id="614" tvg-name="SKY COMEDY (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Sky_Comedy_logo.svg/revision/latest/scale-to-width-down/300?cb=20200825185441" group-title="DE_NJEMACKA",SKY COMEDY (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/818.m3u8
+#EXTINF:-1 tvg-id="622" tvg-name="SKY KRIMI (DE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Sky_Krimi_2020.svg/revision/latest/scale-to-width-down/300?cb=20201029122545" group-title="DE_NJEMACKA",SKY KRIMI (DE)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLUE TV 4K ACTION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGB_CfPlQ26U7FyDA_0JbU22H8e9t3R83MxnuApxb3xL5z2My-fA5i4l7Sok03Kvzwe08&usqp=CAU" group-title="DE_NJEMACKA",BLUE TV 4K ACTION
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLUE TV 4K DRAMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGB_CfPlQ26U7FyDA_0JbU22H8e9t3R83MxnuApxb3xL5z2My-fA5i4l7Sok03Kvzwe08&usqp=CAU" group-title="DE_NJEMACKA",BLUE TV 4K DRAMA
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLUE TV 4K HORROR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGB_CfPlQ26U7FyDA_0JbU22H8e9t3R83MxnuApxb3xL5z2My-fA5i4l7Sok03Kvzwe08&usqp=CAU" group-title="DE_NJEMACKA",BLUE TV 4K HORROR
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLUE TV 4K MYSTERY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGB_CfPlQ26U7FyDA_0JbU22H8e9t3R83MxnuApxb3xL5z2My-fA5i4l7Sok03Kvzwe08&usqp=CAU" group-title="DE_NJEMACKA",BLUE TV 4K MYSTERY
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 1 DE" tvg-logo="https://ewsat.com/img/SKY_SELECT.png" group-title="DE_NJEMACKA",SKY SELECT 1 DE
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 2 DE" tvg-logo="https://ewsat.com/img/SKY_SELECT.png" group-title="DE_NJEMACKA",SKY SELECT 2 DE
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 3 DE" tvg-logo="https://ewsat.com/img/SKY_SELECT.png" group-title="DE_NJEMACKA",SKY SELECT 3 DE
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 4 DE" tvg-logo="https://ewsat.com/img/SKY_SELECT.png" group-title="DE_NJEMACKA",SKY SELECT 4 DE
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 5 DE" tvg-logo="https://ewsat.com/img/SKY_SELECT.png" group-title="DE_NJEMACKA",SKY SELECT 5 DE
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 6 DE" tvg-logo="https://ewsat.com/img/SKY_SELECT.png" group-title="DE_NJEMACKA",SKY SELECT 6 DE
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 7 DE" tvg-logo="https://ewsat.com/img/SKY_SELECT.png" group-title="DE_NJEMACKA",SKY SELECT 7 DE
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 8 DE" tvg-logo="https://ewsat.com/img/SKY_SELECT.png" group-title="DE_NJEMACKA",SKY SELECT 8 DE
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/832.m3u8

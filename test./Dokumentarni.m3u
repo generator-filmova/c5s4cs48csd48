@@ -1,0 +1,66 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="::::: DOKUMENTARNI :::::" tvg-logo="https://thumbs.dreamstime.com/b/documentary-icon-trendy-design-style-isolated-white-background-vector-simple-modern-flat-symbol-web-site-mobile-logo-135750659.jpg" group-title="DOKUMENTARNI",::::: DOKUMENTARNI :::::
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/49241.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="History" tvg-name="HISTORY CHANNEL (DOC)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/History_%282015%29.svg/revision/latest/scale-to-width-down/200?cb=20180119222457" group-title="DOKUMENTARNI",HISTORY CHANNEL (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/405.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="History 2" tvg-name="HISTORY CHANNEL 2 (DOC)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/History_2.svg/revision/latest/scale-to-width-down/200?cb=20200826145426" group-title="DOKUMENTARNI",HISTORY CHANNEL 2 (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/406.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="283" tvg-name="DISCOVERY CHANNEL HD (DOC)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Discovery%2C_Inc_logo.svg/revision/latest/scale-to-width-down/300?cb=20201208122626" group-title="DOKUMENTARNI",DISCOVERY CHANNEL HD (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/407.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="National Geographic" tvg-name="NATIONAL GEOGRAPHIC (DOC)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/250?cb=20170701154034" group-title="DOKUMENTARNI",NATIONAL GEOGRAPHIC (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/411.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="Nat Geo Wild" tvg-name="NAT GEO WILD (DOC)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/National_Geographic_Wild_2018.svg/revision/latest/scale-to-width-down/200?cb=20180903172554" group-title="DOKUMENTARNI",NAT GEO WILD (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/410.m3u8
+#EXTINF:-1 tvg-id="Viasat Explore" tvg-name="VIASAT EXPLORE (DOC)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Viasat_Explore.svg/revision/latest/scale-to-width-down/130?cb=20140718113331" group-title="DOKUMENTARNI",VIASAT EXPLORE (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/402.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="Viasat History" tvg-name="VIASAT HISTORY (DOC)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Viasat_History_2014.svg/revision/latest/scale-to-width-down/150?cb=20210313083338" group-title="DOKUMENTARNI",VIASAT HISTORY (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/403.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="Viasat Nature" tvg-name="VIASAT NATURE (DOC)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Viasat_Nature_2014_%281%29.svg/revision/latest/scale-to-width-down/150?cb=20210313083435" group-title="DOKUMENTARNI",VIASAT NATURE (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/404.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="24Kitchen" tvg-name="24 KITCHEN (DOC)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/24Kitchen.svg/revision/latest/scale-to-width-down/300?cb=20171119143407" group-title="DOKUMENTARNI",24 KITCHEN (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/426.m3u8
+#EXTINF:-1 tvg-id="Crime & Investigation" tvg-name="CRIME INVESTIGATION (DOC)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Crimen_%2B_Investigaci%C3%B3n_2017.svg/revision/latest/scale-to-width-down/220?cb=20191219084403" group-title="DOKUMENTARNI",CRIME INVESTIGATION (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/417.m3u8
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="E! (DOC)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/E%21_1990.svg/revision/latest/scale-to-width-down/70?cb=20180304103018" group-title="DOKUMENTARNI",E! (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/414.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="294" tvg-name="ANIMAL PLANET (DOC)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20210825085349" group-title="DOKUMENTARNI",ANIMAL PLANET (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/412.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="BBC Earth" tvg-name="BBC EARTH (DOC)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/BBC_Earth.svg/revision/latest/scale-to-width-down/200?cb=20150323131938" group-title="DOKUMENTARNI",BBC EARTH (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE (DOC)" tvg-logo="https://digiturkpaketler.com/img/kanallar/kanallar2/discovery-science-hd-buyuk.png" group-title="DOKUMENTARNI",DISCOVERY SCIENCE (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/408.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="282" tvg-name="DISCOVERY ID (DOC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOKUMENTARNI",DISCOVERY ID (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/409.m3u8
+#EXTINF:-1 tvg-id="305" tvg-name="TLC HD (DOC)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/TLCK_Channel_Logo.png/revision/latest/scale-to-width-down/200?cb=20151210143955" group-title="DOKUMENTARNI",TLC HD (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/415.m3u8
+#EXTINF:-1 tvg-id="CBS Reality" tvg-name="CBS REALITY (DOC)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/CBS_Reality_PL_PL_logo.png" group-title="DOKUMENTARNI",CBS REALITY (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/416.m3u8
+#EXTINF:-1 tvg-id="Da Vinci" tvg-name="DA VINCI LEARNING (DOC)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Da_Vinci_India.jpg/revision/latest/scale-to-width-down/200?cb=20200314103247" group-title="DOKUMENTARNI",DA VINCI LEARNING (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/419.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DTX HD (DOC)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/DTX_logo.png" group-title="DOKUMENTARNI",DTX HD (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/420.m3u8
+#EXTINF:-1 tvg-id="290" tvg-name="DOCUBOX (DOC)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/DocuBox_%282013%29.svg/revision/latest/scale-to-width-down/250?cb=20171210215646" group-title="DOKUMENTARNI",DOCUBOX (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/421.m3u8
+#EXTINF:-1 tvg-id="Doku TV" tvg-name="DOKU TV (DOC)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/DOKUTV_logo.png" group-title="DOKUMENTARNI",DOKU TV (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FINE LIVING NETWORK (DOC)" tvg-logo="https://ewsat.com/img/FINE_LIVING_NETWORK.png" group-title="DOKUMENTARNI",FINE LIVING NETWORK (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/423.m3u8
+#EXTINF:-1 tvg-id="298" tvg-name="FOOD NEWORK (DOC)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/FoodNetLogo.svg/revision/latest/scale-to-width-down/180?cb=20210615015237" group-title="DOKUMENTARNI",FOOD NEWORK (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/424.m3u8
+#EXTINF:-1 tvg-id="Lov i Ribolov" tvg-name="LOV I RIBOLOV (DOC)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Lov-i-ribolov.png/revision/latest/scale-to-width-down/200?cb=20210205143648" group-title="DOKUMENTARNI",LOV I RIBOLOV (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/425.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="299" tvg-name="PINK KUVAR (DOC)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Pink_Kuvar_logo.png" group-title="DOKUMENTARNI",PINK KUVAR (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/427.m3u8
+#EXTINF:-1 tvg-id="302" tvg-name="PINK PEDIA (DOC)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pinkPedia.png" group-title="DOKUMENTARNI",PINK PEDIA (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/428.m3u8
+#EXTINF:-1 tvg-id="295" tvg-name="TRAVEL CHANNEL (DOC)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Travel_Channel_International.svg/revision/latest/scale-to-width-down/250?cb=20191226223708" group-title="DOKUMENTARNI",TRAVEL CHANNEL (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/429.m3u8
+#EXTINF:-1 tvg-id="Woman" tvg-name="WOMAN (DOC)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/woman_logo.png" group-title="DOKUMENTARNI",WOMAN (DOC)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLANET EARTH (Test)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/PlanetEarth.png/revision/latest?cb=20170712100514" group-title="DOKUMENTARNI",PLANET EARTH (Test)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/431.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN TRIP (Test)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/balkan-trip_logo.png" group-title="DOKUMENTARNI",BALKAN TRIP (Test)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/23470.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EDU TV (test)" tvg-logo="https://www.edutelevision.com/wp-content/uploads/2017/03/684x244-300x107.png" group-title="DOKUMENTARNI",EDU TV (test)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/39762.m3u8

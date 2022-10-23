@@ -1,0 +1,86 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="::::: HRVATSKA :::::" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/2560px-Flag_of_Croatia.svg.png" group-title="HR_HRVATSKA",::::: HRVATSKA :::::
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/49240.m3u8
+#EXTINF:-1 tvg-id="HRT 1" tvg-name="HRT 1 (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv1-logo.png" group-title="HR_HRVATSKA",HRT 1 (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/74.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="HRT 1 HD" tvg-name="HRT 1 (HR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv1-logo.png" group-title="HR_HRVATSKA",HRT 1 (HR) L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/75.m3u8
+#EXTINF:-1 tvg-id="HRT 2 HD" tvg-name="HRT 2 (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv2-logo.png" group-title="HR_HRVATSKA",HRT 2 (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/76.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="HRT 2" tvg-name="HRT 2 (HR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv2-logo.png" group-title="HR_HRVATSKA",HRT 2 (HR) L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/77.m3u8
+#EXTINF:-1 tvg-id="HRT 3" tvg-name="HRT 3 (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT3_logo.png" group-title="HR_HRVATSKA",HRT 3 (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/78.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="HRT 3" tvg-name="HRT 3 (HR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT3_logo.png" group-title="HR_HRVATSKA",HRT 3 (HR) L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/79.m3u8
+#EXTINF:-1 tvg-id="HRT 4" tvg-name="HRT 4 (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT4-logo.png" group-title="HR_HRVATSKA",HRT 4 (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/80.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="HRT 4" tvg-name="HRT 4 (HR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRT4-logo.png" group-title="HR_HRVATSKA",HRT 4 (HR) L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/81.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="HRT INT (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/HRTint_logo.png" group-title="HR_HRVATSKA",HRT INT (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/82.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="Nova HD" tvg-name="NOVA TV (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HR_HRVATSKA",NOVA TV (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/83.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="Nova TV" tvg-name="NOVA TV (HR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HR_HRVATSKA",NOVA TV (HR) L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/84.m3u8
+#EXTINF:-1 tvg-id="RTL HD" tvg-name="RTL (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HR_HRVATSKA",RTL (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/87.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="RTL" tvg-name="RTL (HR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL.png" group-title="HR_HRVATSKA",RTL (HR) L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/88.m3u8
+#EXTINF:-1 tvg-id="RTL 2" tvg-name="RTL 2 (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HR_HRVATSKA",RTL 2 (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/89.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="RTL 2" tvg-name="RTL 2 (HR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL2-logo.png" group-title="HR_HRVATSKA",RTL 2 (HR) L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/90.m3u8
+#EXTINF:-1 tvg-id="Doma TV" tvg-name="DOMA TV (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/doma.png" group-title="HR_HRVATSKA",DOMA TV (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/85.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="Doma TV" tvg-name="DOMA TV (HR) L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/doma.png" group-title="HR_HRVATSKA",DOMA TV (HR) L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/86.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="RTL Crime" tvg-name="RTL CRIME (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Crime_logo.png" group-title="HR_HRVATSKA",RTL CRIME (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/91.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="RTL Living" tvg-name="RTL LIVING (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Living_logo.png" group-title="HR_HRVATSKA",RTL LIVING (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/92.m3u8
+#EXTINF:-1 tvg-id="RTL Passion" tvg-name="RTL PASSION (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Passion_logo.png" group-title="HR_HRVATSKA",RTL PASSION (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/93.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL CROATIA WORLD (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTL_Croatia_World_logo.png" group-title="HR_HRVATSKA",RTL CROATIA WORLD (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/94.m3u8
+#EXTINF:-1 tvg-id="RTL Adria HD" tvg-name="RTL ADRIA (HR)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/80/RTL_Adria_%282020-.n.v.%29.png/revision/latest?cb=20200225184616" group-title="HR_HRVATSKA",RTL ADRIA (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/95.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL + (HR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/RTL_Televizija_Logo.svg/1280px-RTL_Televizija_Logo.svg.png" group-title="HR_HRVATSKA",RTL + (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/47279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL PLAY PREMIUM (HR)" tvg-logo="https://play.rtl.hr/assets/images/services/icon/rtlhr_rtl_play-97756f5677.png" group-title="HR_HRVATSKA",RTL PLAY PREMIUM (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/48812.m3u8
+#EXTINF:-1 timeshift="2" tvg-id="N1" tvg-name="N1 (HR)" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/b/b7/N1_logotip.png" group-title="HR_HRVATSKA",N1 (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/96.m3u8
+#EXTINF:-1 tvg-id="N1" tvg-name="N1 (HR) L2" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/b/b7/N1_logotip.png" group-title="HR_HRVATSKA",N1 (HR) L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/97.m3u8
+#EXTINF:-1 tvg-id="Z1" tvg-name="Z1 (HR)" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/9e/Z1-tv_logo.png" group-title="HR_HRVATSKA",Z1 (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/98.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="Mreža TV Zagreb" tvg-name="MREZA TV ZAGREB" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/MrezaZG_logo.png" group-title="HR_HRVATSKA",MREZA TV ZAGREB
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/99.m3u8
+#EXTINF:-1 tvg-id="PLAVA Vinkovačka" tvg-name="VINKOVACKA TV (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/Plava_Vinkovacka_logo.png" group-title="HR_HRVATSKA",VINKOVACKA TV (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/101.m3u8
+#EXTINF:-1 tvg-id="Slavonska TV" tvg-name="SLAVONSKA TV (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/sbtv.jpg" group-title="HR_HRVATSKA",SLAVONSKA TV (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/102.m3u8
+#EXTINF:-1 tvg-id="Osječka TV" tvg-name="OSJECKA TV (HR)" tvg-logo="http://osjecka.com/osjecka.jpg" group-title="HR_HRVATSKA",OSJECKA TV (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/103.m3u8
+#EXTINF:-1 tvg-id="TV Jadran" tvg-name="TV JADRAN (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/tv-jadran-logo.png" group-title="HR_HRVATSKA",TV JADRAN (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/104.m3u8
+#EXTINF:-1 tvg-id="Laudato TV" tvg-name="LAUDATO TV (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/LaudatoTV_logo.png" group-title="HR_HRVATSKA",LAUDATO TV (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/107.m3u8
+#EXTINF:-1 tvg-id="Poljoprivredna TV" tvg-name="POLJOPRIVREDNA TV (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/poljoprivredna_tv_logo.png" group-title="HR_HRVATSKA",POLJOPRIVREDNA TV (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/108.m3u8
+#EXTINF:-1 tvg-id="Libertas TV" tvg-name="LIBERTAS TV (HR)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/LibertasTV.png" group-title="HR_HRVATSKA",LIBERTAS TV (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/109.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="JABUKA TV (HR)" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/8/8b/Jabukatv-logo.png" group-title="HR_HRVATSKA",JABUKA TV (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/110.m3u8
+#EXTINF:-1 tvg-id="RTV Banovina" tvg-name="RTV BANOVINA (HR)" tvg-logo="https://www.radio-banovina.hr/wp-content/uploads/2015/01/logo-152_000001.png" group-title="HR_HRVATSKA",RTV BANOVINA (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/111.m3u8
+#EXTINF:-1 tvg-id="Aurora TV" tvg-name="AURORA TV (HR)" tvg-logo="https://tvaurora.tv/wp-content/uploads/2020/03/Logo-480-7.png" group-title="HR_HRVATSKA",AURORA TV (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/112.m3u8
+#EXTINF:-1 tvg-id="Trend TV" tvg-name="TREND TV KARLOVAC (HR)" tvg-logo="https://trend.com.hr/wp-content/uploads/2020/03/trend_tv.png" group-title="HR_HRVATSKA",TREND TV KARLOVAC (HR)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CRO TV (test)" tvg-logo="https://crotvhd.net/wp-content/uploads/2021/04/coollogo_com-105423857.png" group-title="HR_HRVATSKA",CRO TV (test)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOVA WORD HR (test)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Nova_World_2019.svg/revision/latest/scale-to-width-down/200?cb=20220427150233" group-title="HR_HRVATSKA",NOVA WORD HR (test)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/44916.m3u8

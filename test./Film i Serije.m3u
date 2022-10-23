@@ -1,0 +1,224 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="::::: FILM I SERIJE :::::" tvg-logo="https://img.freepik.com/premium-vector/click-movie-logo-vector_18099-258.jpg" group-title="FILM I SERIJE",::::: FILM I SERIJE :::::
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/49244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANDRIJA I ANDJELKA 24H" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWMzYWEyZmUtYThjYi00ZDdiLWExMzItMjY5ZGZkYTQ0N2Q2XkEyXkFqcGdeQXVyMjYwOTY5MTY@._V1_UY1200_CR113,0,630,1200_AL_.jpg" group-title="FILM I SERIJE",ANDRIJA I ANDJELKA 24H
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NA GRANICI 24H" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWVkYWNlZDctMWJkMS00ZWFlLWJjNmEtNmMwYjdhYzdiNGE2XkEyXkFqcGdeQXVyNzQwNzQwMjA@._V1_.jpg" group-title="FILM I SERIJE",NA GRANICI 24H
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/17033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LUD ZBUNJEN NORMALAN 1 24H" tvg-logo="https://www.072info.com/wp-content/uploads/2013/08/Lud_Zbunjen_Normalan.png" group-title="FILM I SERIJE",LUD ZBUNJEN NORMALAN 1 24H
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LUD ZBUNJEN NORMALAN 2 24H" tvg-logo="https://www.072info.com/wp-content/uploads/2013/08/Lud_Zbunjen_Normalan.png" group-title="FILM I SERIJE",LUD ZBUNJEN NORMALAN 2 24H
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BITANGE I PRINCEZE 24H" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQvpuu81QQ8ZbhIJAhCjdeQvTQyFYVtoG1UvBMFsCO3nTByFOH0BRyauSi-M5dikylazo&usqp=CAU" group-title="FILM I SERIJE",BITANGE I PRINCEZE 24H
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/47920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NASA MALA KLINIKA 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/f/f2/NMK_logotip.svg/1024px-NMK_logotip.svg.png" group-title="FILM I SERIJE",NASA MALA KLINIKA 24H
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/47919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COBRA 11 24H" tvg-logo="https://images.fanart.tv/fanart/alarm-for-cobra-11-55c7c885b4046.png" group-title="FILM I SERIJE",COBRA 11 24H
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/47917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUCKE 24H" tvg-logo="https://image.tmdb.org/t/p/w500/fAFPAdUiOecSJYnI09pLq6KLFNW.jpg" group-title="FILM I SERIJE",MUCKE 24H
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/48814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DVA I POL MUSKARCA 24H" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ftK0ng1gLGwmqdCG7-bLZHXb-mPnNJH783d-Fra0GCqL0HJGw0-86ytqYQt4ZrXWg3w&usqp=CAU" group-title="FILM I SERIJE",DVA I POL MUSKARCA 24H
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/48815.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MR. BEAN 24H" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2RkODFmZGUtZDNiZi00M2ZmLThjODEtY2U3MjYyNzc3ZmM1L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="FILM I SERIJE",MR. BEAN 24H
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/67059.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/200?cb=20201126030141" group-title="FILM I SERIJE",HBO
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/264.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="HBO" tvg-name="HBO L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/200?cb=20201126030141" group-title="FILM I SERIJE",HBO L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/265.m3u8
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/HBO_2_2014.svg/revision/latest/scale-to-width-down/300?cb=20210113014820" group-title="FILM I SERIJE",HBO 2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/266.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="HBO 2 HD" tvg-name="HBO 2 L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/HBO_2_2014.svg/revision/latest/scale-to-width-down/300?cb=20210113014820" group-title="FILM I SERIJE",HBO 2 L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/267.m3u8
+#EXTINF:-1 tvg-id="HBO 3 HD" tvg-name="HBO 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/HBO_3_2016.svg/revision/latest/scale-to-width-down/200?cb=20171217110508" group-title="FILM I SERIJE",HBO 3 HD
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/268.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="HBO 3 HD" tvg-name="HBO 3 L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/HBO_3_2016.svg/revision/latest/scale-to-width-down/200?cb=20171217110508" group-title="FILM I SERIJE",HBO 3 L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX (TEST)" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo.png" group-title="FILM I SERIJE",HBO MAX (TEST)
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/47938.m3u8
+#EXTINF:-1 tvg-id="CineStar TV 1 HD" tvg-name="CINESTAR TV1" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinestar_TV1_logo.png" group-title="FILM I SERIJE",CINESTAR TV1
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/274.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="CineStar TV 1 HD" tvg-name="CINESTAR TV1 L2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinestar_TV1_logo.png" group-title="FILM I SERIJE",CINESTAR TV1 L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/275.m3u8
+#EXTINF:-1 tvg-id="CineStar TV Action & Thriller HD" tvg-name="CINESTAR ACTION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Cinestar_Action.png/revision/latest/scale-to-width-down/250?cb=20210319102642" group-title="FILM I SERIJE",CINESTAR ACTION
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/280.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="246" tvg-name="CINESTAR ACTION L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Cinestar_Action.png/revision/latest/scale-to-width-down/250?cb=20210319102642" group-title="FILM I SERIJE",CINESTAR ACTION L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/281.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="CineStar Fantasy HD" tvg-name="CINESTAR FANTASY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/CineStar_Fantasy.png/revision/latest/scale-to-width-down/250?cb=20210319103458" group-title="FILM I SERIJE",CINESTAR FANTASY
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/282.m3u8
+#EXTINF:-1 tvg-id="CineStar TV Premiere 1 HD" tvg-name="CINESTAR PREMIERE 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Cinestar_Premiere_1_HD.png/revision/latest/scale-to-width-down/300?cb=20210319104103" group-title="FILM I SERIJE",CINESTAR PREMIERE 1
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/276.m3u8
+#EXTINF:-1 tvg-id="CineStar TV Premiere 1 HD" tvg-name="CINESTAR PREMIERE 1 L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Cinestar_Premiere_1_HD.png/revision/latest/scale-to-width-down/300?cb=20210319104103" group-title="FILM I SERIJE",CINESTAR PREMIERE 1 L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/277.m3u8
+#EXTINF:-1 tvg-id="CineStar TV Premiere 2 HD" tvg-name="CINESTAR PREMIERE 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Cinestar_Premiere_2_HD.png/revision/latest/scale-to-width-down/300?cb=20210319104405" group-title="FILM I SERIJE",CINESTAR PREMIERE 2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/278.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="CineStar TV Premiere 2 HD" tvg-name="CINESTAR PREMIERE 2 L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Cinestar_Premiere_2_HD.png/revision/latest/scale-to-width-down/300?cb=20210319104405" group-title="FILM I SERIJE",CINESTAR PREMIERE 2 L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/279.m3u8
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Cinemax_2016.svg/revision/latest/scale-to-width-down/300?cb=20171203110447" group-title="FILM I SERIJE",CINEMAX 1
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/270.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="Cinemax HD" tvg-name="CINEMAX 1 L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Cinemax_2016.svg/revision/latest/scale-to-width-down/300?cb=20171203110447" group-title="FILM I SERIJE",CINEMAX 1 L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/271.m3u8
+#EXTINF:-1 tvg-id="Cinemax 2" tvg-name="CINEMAX 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Cinemax_2_%282016%29.svg/revision/latest/scale-to-width-down/300?cb=20171214103515" group-title="FILM I SERIJE",CINEMAX 2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/272.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="Cinemax 2 HD" tvg-name="CINEMAX 2 L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Cinemax_2_%282016%29.svg/revision/latest/scale-to-width-down/300?cb=20171214103515" group-title="FILM I SERIJE",CINEMAX 2 L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/273.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="248" tvg-name="CINEMANIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Cinemania_tv.png/revision/latest/scale-to-width-down/300?cb=20210613042556" group-title="FILM I SERIJE",CINEMANIA
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/309.m3u8
+#EXTINF:-1 tvg-id="259" tvg-name="AXN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/300?cb=20201126064846" group-title="FILM I SERIJE",AXN
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/289.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="259" tvg-name="AXN L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/300?cb=20201126064846" group-title="FILM I SERIJE",AXN L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/290.m3u8
+#EXTINF:-1 tvg-id="260" tvg-name="AXN SPIN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/AXN_Spin_logo_%282015%29.svg/revision/latest/scale-to-width-down/250?cb=20201210072747" group-title="FILM I SERIJE",AXN SPIN
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/291.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="260" tvg-name="AXN SPIN L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/AXN_Spin_logo_%282015%29.svg/revision/latest/scale-to-width-down/250?cb=20201210072747" group-title="FILM I SERIJE",AXN SPIN L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/292.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Fox_2019.svg/revision/latest/scale-to-width-down/200?cb=20210629013252" group-title="FILM I SERIJE",FOX
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/310.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="FOX" tvg-name="FOX L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Fox_2019.svg/revision/latest/scale-to-width-down/200?cb=20210629013252" group-title="FILM I SERIJE",FOX L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/311.m3u8
+#EXTINF:-1 tvg-id="FOX Movies" tvg-name="FOX MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Fox_Movies_2017.png/revision/latest/scale-to-width-down/250?cb=20191119032809" group-title="FILM I SERIJE",FOX MOVIES
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/312.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="FOX Movies" tvg-name="FOX MOVIES L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Fox_Movies_2017.png/revision/latest/scale-to-width-down/250?cb=20191119032809" group-title="FILM I SERIJE",FOX MOVIES L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/313.m3u8
+#EXTINF:-1 tvg-id="FOX Life" tvg-name="FOX LIFE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Fox_Life.svg/revision/latest/scale-to-width-down/250?cb=20190426124214" group-title="FILM I SERIJE",FOX LIFE
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/314.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="FOX Life" tvg-name="FOX LIFE L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Fox_Life.svg/revision/latest/scale-to-width-down/250?cb=20190426124214" group-title="FILM I SERIJE",FOX LIFE L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/315.m3u8
+#EXTINF:-1 tvg-id="FOX Crime" tvg-name="FOX CRIME" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Fox_Crime_2017.svg/revision/latest/scale-to-width-down/250?cb=20171202084549" group-title="FILM I SERIJE",FOX CRIME
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/316.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="FOX Crime" tvg-name="FOX CRIME L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Fox_Crime_2017.svg/revision/latest/scale-to-width-down/250?cb=20171202084549" group-title="FILM I SERIJE",FOX CRIME L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/317.m3u8
+#EXTINF:-1 tvg-id="Klasik TV" tvg-name="KLASIK TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/KlasikTV_logo.png" group-title="FILM I SERIJE",KLASIK TV
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/293.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="Klasik TV" tvg-name="KLASIK TV L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/KlasikTV_logo.png" group-title="FILM I SERIJE",KLASIK TV L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/294.m3u8
+#EXTINF:-1 tvg-id="TV 1000" tvg-name="TV 1000" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/TV1000_2021.svg/revision/latest/scale-to-width-down/250?cb=20211205103116" group-title="FILM I SERIJE",TV 1000
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/295.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="TV 1000" tvg-name="TV 1000 L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/TV1000_2021.svg/revision/latest/scale-to-width-down/250?cb=20211205103116" group-title="FILM I SERIJE",TV 1000 L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/296.m3u8
+#EXTINF:-1 tvg-id="252" tvg-name="AMC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/AMC_%282019%29.svg/revision/latest/scale-to-width-down/250?cb=20190713011740" group-title="FILM I SERIJE",AMC
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/303.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="252" tvg-name="AMC L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/AMC_%282019%29.svg/revision/latest/scale-to-width-down/250?cb=20190713011740" group-title="FILM I SERIJE",AMC L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/304.m3u8
+#EXTINF:-1 tvg-id="253" tvg-name="FILM KLUB" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/Film-Klub_logo.png" group-title="FILM I SERIJE",FILM KLUB
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/283.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="253" tvg-name="FILM KLUB L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/Film-Klub_logo.png" group-title="FILM I SERIJE",FILM KLUB L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/284.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="M1 Film" tvg-name="M1 FILM" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/m1film-logo.png" group-title="FILM I SERIJE",M1 FILM
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/286.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="M1 Gold" tvg-name="M1 GOLD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/M1-glod_logo.png" group-title="FILM I SERIJE",M1 GOLD
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/287.m3u8
+#EXTINF:-1 tvg-id="Kino TV" tvg-name="KINO TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Kino_TV.svg/revision/latest/scale-to-width-down/200?cb=20171210162455" group-title="FILM I SERIJE",KINO TV
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/297.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="Kino TV" tvg-name="KINO TV L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Kino_TV.svg/revision/latest/scale-to-width-down/200?cb=20171210162455" group-title="FILM I SERIJE",KINO TV L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/298.m3u8
+#EXTINF:-1 tvg-id="Epic Drama" tvg-name="EPIC DRAMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Epic_Drama_2018.svg/revision/latest/scale-to-width-down/200?cb=20191113170018" group-title="FILM I SERIJE",EPIC DRAMA
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/299.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="Epic Drama" tvg-name="EPIC DRAMA L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Epic_Drama_2018.svg/revision/latest/scale-to-width-down/200?cb=20191113170018" group-title="FILM I SERIJE",EPIC DRAMA L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/300.m3u8
+#EXTINF:-1 tvg-id="251" tvg-name="DIVA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/Diva.svg/revision/latest/scale-to-width-down/300?cb=20160820160717" group-title="FILM I SERIJE",DIVA
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/301.m3u8
+#EXTINF:-1 timeshift="2" tvg-id="251" tvg-name="DIVA L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/Diva.svg/revision/latest/scale-to-width-down/300?cb=20160820160717" group-title="FILM I SERIJE",DIVA L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/302.m3u8
+#EXTINF:-1 tvg-id="266" tvg-name="SCI FI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/SCIFIUNIVERSAL2017.png/revision/latest/scale-to-width-down/150?cb=20200508175653" group-title="FILM I SERIJE",SCI FI
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/305.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="266" tvg-name="SCI FI L2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/SCIFIUNIVERSAL2017.png/revision/latest/scale-to-width-down/150?cb=20200508175653" group-title="FILM I SERIJE",SCI FI L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/306.m3u8
+#EXTINF:-1 tvg-id="Pickbox TV" tvg-name="PICKBOX TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/pickbox_logo_new.png" group-title="FILM I SERIJE",PICKBOX TV
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/307.m3u8
+#EXTINF:-1 tvg-id="Pickbox TV" tvg-name="PICKBOX TV L2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/pickbox_logo_new.png" group-title="FILM I SERIJE",PICKBOX TV L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/308.m3u8
+#EXTINF:-1 tvg-id="267" tvg-name="MAXCRO SELECT 1 HD" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",MAXCRO SELECT 1 HD
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/318.m3u8
+#EXTINF:-1 tvg-id="268" tvg-name="MAXCRO SELECT 2 HD" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",MAXCRO SELECT 2 HD
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/319.m3u8
+#EXTINF:-1 tvg-id="269" tvg-name="MAXCRO SELECT 3 HD" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",MAXCRO SELECT 3 HD
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/320.m3u8
+#EXTINF:-1 tvg-id="270" tvg-name="MAXCRO SELECT 4 HD" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",MAXCRO SELECT 4 HD
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/321.m3u8
+#EXTINF:-1 tvg-id="271" tvg-name="MAXCRO SELECT 5 HD" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",MAXCRO SELECT 5 HD
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/322.m3u8
+#EXTINF:-1 tvg-id="272" tvg-name="MAXCRO SELECT 6 HD" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",MAXCRO SELECT 6 HD
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/323.m3u8
+#EXTINF:-1 tvg-id="273" tvg-name="MAXCRO SELECT 7 HD" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",MAXCRO SELECT 7 HD
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/324.m3u8
+#EXTINF:-1 tvg-id="274" tvg-name="MAXCRO SELECT 8 HD" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",MAXCRO SELECT 8 HD
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/325.m3u8
+#EXTINF:-1 tvg-id="275" tvg-name="MAXCRO SELECT 9 HD" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",MAXCRO SELECT 9 HD
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/326.m3u8
+#EXTINF:-1 tvg-id="276" tvg-name="MAXCRO SELECT 10 HD" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",MAXCRO SELECT 10 HD
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT 11 HD" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",MAXCRO SELECT 11 HD
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/45272.m3u8
+#EXTINF:-1 tvg-id="255" tvg-name="FILMBOX EXTRA" tvg-logo="https://www.pinpng.com/pngs/m/438-4385327_filmbox-extra-pl-filmbox-family-logo-hd-png.png" group-title="FILM I SERIJE",FILMBOX EXTRA
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/348.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WESTERN 24H" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",WESTERN 24H
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/17034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOVA CINEMA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Nova_Cinema_logo.png" group-title="FILM I SERIJE",NOVA CINEMA
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/17060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOVA CINEMA 2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Nova_Cinema_logo.png" group-title="FILM I SERIJE",NOVA CINEMA 2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/17063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOVA FAMILY" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Nova_Family_logo.png" group-title="FILM I SERIJE",NOVA FAMILY
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/17064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 1" tvg-logo="https://www.nicepng.com/png/detail/370-3703795_sky-box-office-logo-png-transparent-sky-movies.png" group-title="FILM I SERIJE",BOX OFFICE 1
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/23407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 2" tvg-logo="https://www.nicepng.com/png/detail/370-3703795_sky-box-office-logo-png-transparent-sky-movies.png" group-title="FILM I SERIJE",BOX OFFICE 2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/23465.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 3" tvg-logo="https://www.nicepng.com/png/detail/370-3703795_sky-box-office-logo-png-transparent-sky-movies.png" group-title="FILM I SERIJE",BOX OFFICE 3
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/23466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 4" tvg-logo="https://www.nicepng.com/png/detail/370-3703795_sky-box-office-logo-png-transparent-sky-movies.png" group-title="FILM I SERIJE",BOX OFFICE 4
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/35599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACIOUS 1" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",CINEMACIOUS 1
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/36238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACIOUS 2" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",CINEMACIOUS 2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/36239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACIOUS 3" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",CINEMACIOUS 3
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/36240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACIOUS 4" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",CINEMACIOUS 4
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/36241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACIOUS 5" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",CINEMACIOUS 5
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/36242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACIOUS 6" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",CINEMACIOUS 6
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/36243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACIOUS 7" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",CINEMACIOUS 7
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/36244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACIOUS 8" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",CINEMACIOUS 8
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/36245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 1 (2021) test" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",CINEMA 1 (2021) test
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/39754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 2 (2021) test" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",CINEMA 2 (2021) test
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/39755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 3 test" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",CINEMA 3 test
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/39756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 4 test" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",CINEMA 4 test
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/39757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOTAL CINEMA 1" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",TOTAL CINEMA 1
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/47932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOTAL CINEMA 2" tvg-logo="https://www.transparentpng.com/thumb/movie/gray-movie-written-icon-png-UpaYYD.png" group-title="FILM I SERIJE",TOTAL CINEMA 2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/47933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY-PREMIERE 1" tvg-logo="http://main-url.glass-iptv.xyz:39512/images/98cdaf7df5e04d44824875c5e25e36ce.png" group-title="FILM I SERIJE",BALKAN SKY-PREMIERE 1
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/71204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY-PREMIERE 2" tvg-logo="http://main-url.glass-iptv.xyz:39512/images/98cdaf7df5e04d44824875c5e25e36ce.png" group-title="FILM I SERIJE",BALKAN SKY-PREMIERE 2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/71205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY-ACTION" tvg-logo="http://main-url.glass-iptv.xyz:39512/images/98cdaf7df5e04d44824875c5e25e36ce.png" group-title="FILM I SERIJE",BALKAN SKY-ACTION
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/71206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY-CRIME" tvg-logo="http://main-url.glass-iptv.xyz:39512/images/98cdaf7df5e04d44824875c5e25e36ce.png" group-title="FILM I SERIJE",BALKAN SKY-CRIME
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/71207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY-COMEDY" tvg-logo="http://main-url.glass-iptv.xyz:39512/images/b240939fdd648f238b59a7dfe151ab18.png" group-title="FILM I SERIJE",BALKAN SKY-COMEDY
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/71208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY-DRAMA" tvg-logo="http://main-url.glass-iptv.xyz:39512/images/98cdaf7df5e04d44824875c5e25e36ce.png" group-title="FILM I SERIJE",BALKAN SKY-DRAMA
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/71209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY-FANTASY" tvg-logo="http://main-url.glass-iptv.xyz:39512/images/6b5280b88eaca75a5a3bd9e32f3c21c8.png" group-title="FILM I SERIJE",BALKAN SKY-FANTASY
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/71210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY-ADVENTURE" tvg-logo="http://main-url.glass-iptv.xyz:39512/images/98cdaf7df5e04d44824875c5e25e36ce.png" group-title="FILM I SERIJE",BALKAN SKY-ADVENTURE
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/71211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY-THRILLER" tvg-logo="http://main-url.glass-iptv.xyz:39512/images/843d8ec489f8c62edc158c4b349addd4.png" group-title="FILM I SERIJE",BALKAN SKY-THRILLER
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/71212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY-WESTERN" tvg-logo="http://main-url.glass-iptv.xyz:39512/images/7071881a64e5faa4aa8e6c006a581ccf.png" group-title="FILM I SERIJE",BALKAN SKY-WESTERN
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/71213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY-HOROR" tvg-logo="http://main-url.glass-iptv.xyz:39512/images/3e040c2ee8639b7d62cf1ac8c4bd480d.png" group-title="FILM I SERIJE",BALKAN SKY-HOROR
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/71214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY-SCI-FI" tvg-logo="http://main-url.glass-iptv.xyz:39512/images/ca8e2406434124f30a1218180fd96c0c.png" group-title="FILM I SERIJE",BALKAN SKY-SCI-FI
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/71215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY-SERIJE" tvg-logo="http://main-url.glass-iptv.xyz:39512/images/509918f7fc10eeacafdfe01daec228c4.png" group-title="FILM I SERIJE",BALKAN SKY-SERIJE
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/71216.m3u8

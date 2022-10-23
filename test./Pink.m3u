@@ -1,0 +1,78 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="::::: PINK :::::" tvg-logo="https://www.sat-multimedia.com/wp-content/uploads/2019/06/Pink-Tv-V.jpg" group-title="PINK",::::: PINK :::::
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/349.m3u8
+#EXTINF:-1 tvg-id="206" tvg-name="PINK" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/5/59/Pink_TV_logo.png" group-title="PINK",PINK
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/350.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="207" tvg-name="PINK L2" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/5/59/Pink_TV_logo.png" group-title="PINK",PINK L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/351.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="209" tvg-name="PINK 3" tvg-logo="https://nstatic.net/img/tv/channels/m/pink-3.png" group-title="PINK",PINK 3
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/352.m3u8
+#EXTINF:-1 tvg-id="210" tvg-name="PINK PLUS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkPlus.png" group-title="PINK",PINK PLUS
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/353.m3u8
+#EXTINF:-1 tvg-id="211" tvg-name="PINK MEDIA BH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Pink_BH_logo.png" group-title="PINK",PINK MEDIA BH
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/354.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="213" tvg-name="PINK COMEDY" tvg-logo="https://hallsys.net/images/tv/pinkcomedy.png" group-title="PINK",PINK COMEDY
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/355.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="214" tvg-name="PINK CLASSIC" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pink-classic-logo.png" group-title="PINK",PINK CLASSIC
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/356.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="215" tvg-name="PINK CRIME & MYSTERY" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Pink_Crime_Mistery_logo.png" group-title="PINK",PINK CRIME & MYSTERY
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/357.m3u8
+#EXTINF:-1 tvg-id="216" tvg-name="PINK FILM" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pink-film-logo.png" group-title="PINK",PINK FILM
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/358.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="216" tvg-name="PINK FILM L2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pink-film-logo.png" group-title="PINK",PINK FILM L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/359.m3u8
+#EXTINF:-1 tvg-id="212" tvg-name="PINK ACTION" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pink-action-logo.png" group-title="PINK",PINK ACTION
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/360.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="212" tvg-name="PINK ACTION L2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pink-action-logo.png" group-title="PINK",PINK ACTION L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/361.m3u8
+#EXTINF:-1 tvg-id="217" tvg-name="PINK HORROR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pinkHorror.png" group-title="PINK",PINK HORROR
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/362.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="217" tvg-name="PINK HORROR L2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pinkHorror.png" group-title="PINK",PINK HORROR L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/363.m3u8
+#EXTINF:-1 tvg-id="218" tvg-name="PINK MOVIES" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pink-movies-logo.png" group-title="PINK",PINK MOVIES
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/364.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="218" tvg-name="PINK MOVIES L2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pink-movies-logo.png" group-title="PINK",PINK MOVIES L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/365.m3u8
+#EXTINF:-1 tvg-id="219" tvg-name="PINK WORLD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pink-world-logo.png" group-title="PINK",PINK WORLD
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/366.m3u8
+#EXTINF:-1 tvg-id="220" tvg-name="PINK WORLD CINEMA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkWorldCinema_logo.png" group-title="PINK",PINK WORLD CINEMA
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/367.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="220" tvg-name="PINK WORLD CINEMA L2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkWorldCinema_logo.png" group-title="PINK",PINK WORLD CINEMA L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/368.m3u8
+#EXTINF:-1 tvg-id="221" tvg-name="PINK WESTERN" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pink-western-logo.jpg" group-title="PINK",PINK WESTERN
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/369.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="221" tvg-name="PINK WESTERN L2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pink-western-logo.jpg" group-title="PINK",PINK WESTERN L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/370.m3u8
+#EXTINF:-1 tvg-id="223" tvg-name="PINK THRILLER" tvg-logo="https://hallsys.net/images/tv/pinkthriller.png" group-title="PINK",PINK THRILLER
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/371.m3u8
+#EXTINF:-1 tvg-id="223" tvg-name="PINK THRILLER L2" tvg-logo="https://hallsys.net/images/tv/pinkthriller.png" group-title="PINK",PINK THRILLER L2
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/372.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="222" tvg-name="PINK SCI FI & FANTASY" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Pink_SciFi_Fantasy_logo.png" group-title="PINK",PINK SCI FI & FANTASY
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/373.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="224" tvg-name="PINK SERIJE" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Pink_Serije_logo.png" group-title="PINK",PINK SERIJE
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/374.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="225" tvg-name="PINK ZABAVA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkZabava_logo.png" group-title="PINK",PINK ZABAVA
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/375.m3u8
+#EXTINF:-1 tvg-id="226" tvg-name="PINK ROMANCE" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Pink_Romance_logo.png" group-title="PINK",PINK ROMANCE
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/376.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="228" tvg-name="PINK PREMIUM" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pinkPremium.png" group-title="PINK",PINK PREMIUM
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/377.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="229" tvg-name="PINK SOAP" tvg-logo="http://i.imgur.com/Ami5Aa5.png" group-title="PINK",PINK SOAP
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/378.m3u8
+#EXTINF:-1 tvg-id="230" tvg-name="PINK EXTRA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkExtra.png" group-title="PINK",PINK EXTRA
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/379.m3u8
+#EXTINF:-1 tvg-id="231" tvg-name="PINK LOL" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/LOL.png" group-title="PINK",PINK LOL
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/380.m3u8
+#EXTINF:-1 tvg-id="232" tvg-name="PINK HAHA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HaHa.png" group-title="PINK",PINK HAHA
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/381.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="229" tvg-name="PINK SHOW" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkShow.png" group-title="PINK",PINK SHOW
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/382.m3u8
+#EXTINF:-1 tvg-id="234" tvg-name="PINK STYLE" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pinkStyle.png" group-title="PINK",PINK STYLE
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/383.m3u8
+#EXTINF:-1 tvg-id="235" tvg-name="PINK FASHION" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkFashion_logo.png" group-title="PINK",PINK FASHION
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/384.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="236" tvg-name="PINK FAMILY" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pink-family-logo.png" group-title="PINK",PINK FAMILY
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/385.m3u8
+#EXTINF:-1 tvg-id="227" tvg-name="PINK REALITY" tvg-logo="https://missnet.ba/wp-content/uploads/2016/02/pinkReality-1.png" group-title="PINK",PINK REALITY
+http://balkan-x.net:80/baba.milka/3BFevnQtq5/386.m3u8
